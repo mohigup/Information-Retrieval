@@ -1,0 +1,3900 @@
+======================================
+Query is portable operating systems
+======================================
+1. DOC ID:CACM-3127 score=1.1755296
+Text snippet is as below:
+Thoth, a Portable Real-Time Operating System 
+
+Thoth isa real-time operating system which is designed to be portable
+over a large set of machines.  It is currently running on two minicomputers
+with qu
+======================================
+2. DOC ID:CACM-1461 score=0.50642985
+Text snippet is as below:
+Discussion Summary on Operating Systems
+
+CACM March, 1966
+
+CA660311 JB March 3, 1978  1:26 PM
+
+1461	5	1461
+1461	5	1461
+1461	5	1461
+======================================
+3. DOC ID:CACM-3068 score=0.40902123
+Text snippet is as below:
+A Model for Verification of Data Security in Operating Systems
+
+Program verification applied to kernel architectures
+forms a promising method for providing 
+uncircumventably secure, shared computer sy
+======================================
+4. DOC ID:CACM-2246 score=0.3299833
+Text snippet is as below:
+Levels of Language for Portable Software
+
+An increasing amount of software is being
+implemented in a portable form.  A popular way of 
+accomplishing this is to encode the software in a specially
+desig
+======================================
+5. DOC ID:CACM-2111 score=0.3230007
+Text snippet is as below:
+Spelling Correction in Systems Programs
+
+Several specialized techniques are shown for efficiently
+incorporating spelling correction algorithms in
+to compilers and operating systems.  These include the
+======================================
+6. DOC ID:CACM-2069 score=0.31651866
+Text snippet is as below:
+Comments on a Paper by Wallace and Mason
+
+CACM April, 1970
+
+Heess Jr., W. F.
+
+page-on-demand, demand paging, time-sharing multiprogramming,
+Markovian computer models, scheduling strategies,
+operating 
+======================================
+7. DOC ID:CACM-2740 score=0.30766326
+Text snippet is as below:
+A Large Semaphore Based Operating System
+
+The paper describes the internal structure of
+a large operating system as a set of cooperating 
+sequential processes.  The processes synchronize by
+means of s
+======================================
+8. DOC ID:CACM-2319 score=0.30766326
+Text snippet is as below:
+Operating System Performance
+
+An overview of the current and future positions
+with respect to operating system performance 
+is given.  While a great deal of information and a large
+number of models fo
+======================================
+9. DOC ID:CACM-1462 score=0.28890023
+Text snippet is as below:
+Multilevel Operating Systems
+
+The Basic software for all newer computers
+is built on the well-established need for standard 
+operating systems. This implies that all applications-no
+matter how large, 
+======================================
+10. DOC ID:CACM-1728 score=0.28890023
+Text snippet is as below:
+Further Experimental Data on the Behavior
+of Programs in a Paging Environment
+
+Results are summarized from an empirical study
+directed at the measurement of program operating 
+behavior in those multip
+======================================
+11. DOC ID:CACM-2629 score=0.28045723
+Text snippet is as below:
+The UNIX Time-Sharing system 
+
+UNIX is a general-purpose, multi-user, interactive
+operating system for the Digital Equipment 
+Corporation PDP-11/40 and 11/45 computers.  It offers
+a number of features
+======================================
+12. DOC ID:CACM-2597 score=0.28045723
+Text snippet is as below:
+Monitors: An Operating System Structuring Concept
+
+This paper develops Brinch-Hansen's concept of
+a monitor as a method of structuring an operating 
+system.  It introduces a form of synchronization, d
+======================================
+13. DOC ID:CACM-1750 score=0.2741132
+Text snippet is as below:
+Considerations in the Design of a Multiple
+Computer System with Extended Core Storage
+
+The use of large quantities of addressable
+(but not executable) fast random access memory to 
+heighten the multip
+======================================
+14. DOC ID:CACM-2372 score=0.26916727
+Text snippet is as below:
+On the Implementation of Security Measures in Information Systems
+
+The security of an information system may be
+represented by a model matrix whose elements are 
+decision rules and whose row and colum
+======================================
+15. DOC ID:CACM-2080 score=0.26857498
+Text snippet is as below:
+The Nucleus of a Multiprogramming System
+
+This paper describes the philosophy and structure of a multiprogramming system 
+that can be extended with a hierarchy of operating systems to suit diverse 
+re
+======================================
+16. DOC ID:CACM-2867 score=0.26857498
+Text snippet is as below:
+Modularization and Hierarchy in a Family of Operating Systems
+
+This paper describes the design philosophy
+used in the construction of a family of operating 
+systems. It is shown that the concepts of m
+======================================
+17. DOC ID:CACM-1247 score=0.26857498
+Text snippet is as below:
+An Operating Environment for Dynamic-Recursive
+Computer Programming Systems
+
+Presented in this paper is a brief nontechnical
+introduction to OEDIPUS, a computer programming 
+system which can serve as 
+======================================
+18. DOC ID:CACM-2482 score=0.26857498
+Text snippet is as below:
+Mixed Solutions for the Deadlock Problem
+
+Mixtures of detection, avoidance, and prevention
+provide more effective and practical solutions 
+to the deadlock problem than any one of these alone.  The
+ind
+======================================
+19. DOC ID:CACM-2379 score=0.26133278
+Text snippet is as below:
+The Design of the Venus Operating System
+
+The Venus Operating System is an experimental
+multiprogramming system which supports five or 
+six concurrent users on a small computer.  The system was
+produc
+======================================
+20. DOC ID:CACM-1923 score=0.25321493
+Text snippet is as below:
+Pseudofiles
+
+An approach to system interfaces for high
+level languages using basic input/output support 
+facilities is described.  It is shown that this technique
+can provide potentially inexpensive m
+======================================
+21. DOC ID:CACM-1680 score=0.24681911
+Text snippet is as below:
+A General-Purpose Display Processing and Tutorial System
+
+ADEPT (A display-Expedited Processing and Tutorial)
+system is described.  This system was designed 
+to improve man-computer communications by 
+======================================
+22. DOC ID:CACM-2840 score=0.24135262
+Text snippet is as below:
+Protection in Operating Systems
+
+A model of protection mechanisms in computing
+systems is presented and its appropriateness 
+is argued.  The "safety" problem for protection systems
+under this model is
+======================================
+23. DOC ID:CACM-3025 score=0.24135262
+Text snippet is as below:
+The Evolution of the DEC system 10
+
+The DEC system 10, also known as the PDP-10, evolved
+from the PDP-6 (circa 1963) over five generations 
+of implementations to presently include systems covering
+a p
+======================================
+24. DOC ID:CACM-2621 score=0.23838985
+Text snippet is as below:
+A High Security Log-in Procedure
+
+The protection of time sharing systems from
+unauthorized users is often achieved by the use 
+of passwords.  By using one-way ciphers to code the passwords,
+the risks 
+======================================
+25. DOC ID:CACM-2541 score=0.23371433
+Text snippet is as below:
+An Overview of the ISPL Computer System Design
+
+This paper explores the advantages of the concurrent
+design of the language, operating system, 
+and machine (via microcode) to create an interactive pro
+======================================
+26. DOC ID:CACM-2378 score=0.23371433
+Text snippet is as below:
+An Operating System Based on the Concept of a Supervisory Computer
+
+An operating system which is organized as a
+small supervisor and a set of independent processes 
+are described.  The supervisor hand
+======================================
+27. DOC ID:CACM-2632 score=0.23371433
+Text snippet is as below:
+HYDRA: The Kernel of a Multiprocessor Operating System
+
+This paper describes the design philosophy of
+HYDRA-the kernel of an operating system for C.mmp, 
+the Carnegie-Mellon Multi-Mini-Processor.  Thi
+======================================
+28. DOC ID:CACM-1747 score=0.23342077
+Text snippet is as below:
+Three Criteria for Designing Computing Systems to Facilitate Debugging
+
+The designer of a computing system should adopt
+explicit criteria for accepting or rejecting 
+proposed system features.  Three p
+======================================
+29. DOC ID:CACM-2317 score=0.23112017
+Text snippet is as below:
+Programming Systems and Languages 1965-1975
+
+In spite of impressive gains by PL/I, Fortran
+and Cobol remain the languages in which most 
+of the world's production programs are written and will
+remain 
+======================================
+30. DOC ID:CACM-2424 score=0.22735322
+Text snippet is as below:
+Dynamic Verification of Operating System Decisions
+
+Dynamic verification of a decision implies
+that every time the decision is made there is a 
+consistency check performed on the decision using indepe
+======================================
+31. DOC ID:CACM-2138 score=0.22647284
+Text snippet is as below:
+BLISS: A Language for Systems Programming
+
+A language, BLISS, is described.  This language
+is designed so as to be especially suitable 
+for use in writing production software systems for a
+specific ma
+======================================
+32. DOC ID:CACM-2151 score=0.22647284
+Text snippet is as below:
+User Program Measurement in a Time-Shared Environment
+
+A general discussion of the measurement of
+software systems is followed by a description of 
+a hardware and software scheme for measuring user pr
+======================================
+33. DOC ID:CACM-2320 score=0.2238125
+Text snippet is as below:
+Structured Multiprogramming
+
+This paper presents a proposal for structured
+representation of multiprogramming in a high 
+level language.  The notation used explicitly associates
+a data structure share
+======================================
+34. DOC ID:CACM-1751 score=0.2238125
+Text snippet is as below:
+The Working Set Model for Program Behavior
+
+Probably the most basic reason behind the absence
+of a general treatment of resource allocation 
+in modern computer systems is an adequate model for
+program
+======================================
+35. DOC ID:CACM-2950 score=0.2238125
+Text snippet is as below:
+A Unifying Approach to Scheduling
+
+This paper presents a scheme for classifying
+scheduling algorithms based on an abstract model 
+of a scheduling system which formalizes the notion of
+priority.  Vario
+======================================
+36. DOC ID:CACM-3196 score=0.22226858
+Text snippet is as below:
+The Reactive Typewriter Program
+
+   84-character keyboard including alphabetical upper and lower case for good
+readability. If the machine is restricted to only a single case, the lower case
+is prefer
+======================================
+37. DOC ID:CACM-3174 score=0.22156307
+Text snippet is as below:
+Password Security: A Case History
+
+This paper describes the history of the design of the password
+security scheme on a remotely accessed time-sharing system.
+The present design was the result of count
+======================================
+38. DOC ID:CACM-1930 score=0.21998885
+Text snippet is as below:
+Extremely Portable Random Number Generator
+
+Extremely portable subroutines are sometimes
+needed for which moderate quality and efficiency 
+suffice.  Typically, this occurs for library functions
+(like 
+======================================
+39. DOC ID:CACM-1226 score=0.21734169
+Text snippet is as below:
+The Organization of Structured Files
+
+A data file is an integral part of a data processing
+system.  In many systems, the selection 
+of an organization for the data within the file can
+be critical to t
+======================================
+40. DOC ID:CACM-3141 score=0.21734169
+Text snippet is as below:
+An Improved Algorithm for Decentralized Extrema-Finding
+in Circular Configurations of Processes
+
+This note presents an improvement to LeLann's
+algorithm for finding the largest (or smallest) of a set 
+======================================
+41. DOC ID:CACM-1324 score=0.21344522
+Text snippet is as below:
+Answering English questions by Computer: A Survey
+
+Fifteen experimental English language question-answering
+systems which are programmed and operating 
+are described and reviewed.  The systems range f
+======================================
+42. DOC ID:CACM-1951 score=0.21344522
+Text snippet is as below:
+Estimates of Distributions of Random Variables
+for Certain Computer Communications Traffic Models
+
+A study of multiaccess computer communications has
+characterized the distributions underlying an elem
+======================================
+43. DOC ID:CACM-2522 score=0.21344522
+Text snippet is as below:
+The Design, Implementation, and Evaluation of a Working Set Dispatcher
+
+The behavior of a computer system is largely
+dependent upon the algorithms employed to allocate 
+the system resources to the pro
+======================================
+44. DOC ID:CACM-1752 score=0.20095375
+Text snippet is as below:
+Resource Management for a Medium Scale Time-Sharing Operating system
+
+Task scheduling and resource balancing for
+a medium size virtual memory paging machine are 
+discussed in relation to a combined ba
+======================================
+45. DOC ID:CACM-1236 score=0.20095375
+Text snippet is as below:
+The SMART Automatic Document Retrieval System-An Illustration
+
+A fully automatic document retrieval system
+operating on the IBM 7094 is described.  The system 
+is characterized by the fact that severa
+======================================
+46. DOC ID:CACM-2777 score=0.20095375
+Text snippet is as below:
+On a Solution to the Cigarette Smoker's
+Problem (Without Conditional Statements)
+
+This report discusses a problem first introduced
+by Patil, who has claimed that the cigarette 
+smoker's problem cannot
+======================================
+47. DOC ID:CACM-0322 score=0.1986582
+Text snippet is as below:
+Operational Compatibility of Systems-CONVENTIONS
+
+The General Standards Committee of the SHARE
+organization has devoted considerable effort to 
+the problem of operating a computer efficiently in
+view 
+======================================
+48. DOC ID:CACM-2624 score=0.1986582
+Text snippet is as below:
+Formal Requirements for Virtualizable Third Generation Architectures
+
+Virtual machine systems have been implemented
+on a limited number of third generation computer 
+systems, e.g. CP-67 on the IBM 360
+======================================
+49. DOC ID:CACM-3026 score=0.1986582
+Text snippet is as below:
+The Evolution of the Sperry Univac 1100
+Series: A His tory, Analysis, and Projection
+
+The 1100 series systems are Sperry Univac's
+large-scale main frame computer systems.  Beginning 
+with the 1107 in 
+======================================
+50. DOC ID:CACM-2358 score=0.1930821
+Text snippet is as below:
+The Multics Virtual Memory: Concepts and Design
+
+As experience with use of on-line operating
+systems has grown, the need to share information 
+among system users has become increasingly apparent.
+ Man
+======================================
+51. DOC ID:CACM-3137 score=0.18991122
+Text snippet is as below:
+A Methodology for the Design of Distributed Information Systems
+
+A macro model of a distributed information system in presented.  The model
+describes the major costs of using an information
+system fro
+======================================
+52. DOC ID:CACM-2374 score=0.18991122
+Text snippet is as below:
+A Study of Storage Partitioning Using a Mathematical Model of Locality
+
+Both fixed and dynamic storage partitioning
+procedures are examined for use in multiprogramming 
+systems.  The storage requireme
+======================================
+53. DOC ID:CACM-3028 score=0.18111807
+Text snippet is as below:
+The Manchester Mark I and Atlas: A His torical Perspective
+
+In 30 years of computer design at Manchester University
+two systems stand out: the Mark I (developed 
+over the period 1946-49) and the Atlas
+======================================
+54. DOC ID:CACM-2036 score=0.18111807
+Text snippet is as below:
+An Interactive Command Generating Facility
+
+A facility to permit conversationally controlled tasks
+to be executed in a noninteractive environment is proposed.
+A means by which programs can generate in
+======================================
+55. DOC ID:CACM-2297 score=0.160763
+Text snippet is as below:
+A Model of Memory Contention in a Paging Machine
+
+This paper is concerned with certain aspects of contention
+for main memory resources in a multiprogrammed 
+computer system operating under demand pagi
+======================================
+56. DOC ID:CACM-2184 score=0.160763
+Text snippet is as below:
+On the Meaning of Names in Programming Systems
+
+It is assumed that there is a similarity of
+function between the data names of a programming 
+language and the file names of an operating system.
+ The t
+======================================
+57. DOC ID:CACM-2622 score=0.160763
+Text snippet is as below:
+A User Authentication Scheme Not Requiring Secrecy in the Computer
+
+In many computer operating systems a user authenticates
+himself by entering a secret password 
+known solely to himself and the syste
+======================================
+58. DOC ID:CACM-2625 score=0.15892656
+Text snippet is as below:
+Capability-Based Addressing
+
+Various addressing schemes making use of segment
+tables are examined.  The inadequacies of 
+these schemes when dealing with shared addresses are
+explained. These inadequac
+======================================
+59. DOC ID:CACM-1892 score=0.15892656
+Text snippet is as below:
+Degree of Multiprogramming in Page-on-Demand Systems
+
+A simple stochastic model is described which
+offers a base for understanding the relationship 
+between the number of programs permitted to share m
+======================================
+60. DOC ID:CACM-2582 score=0.15825933
+Text snippet is as below:
+Improving Locality by Critical Working Sets
+
+A new approach to program locality improvement
+via restructuring is described.  The method 
+is particularly suited to those systems where primary memory
+is
+======================================
+61. DOC ID:CACM-1647 score=0.15825933
+Text snippet is as below:
+WATFOR-The University of Waterloo FORTRAN IV Compiler
+
+WATFOR is an in-core, load-and-go compiler
+which has been implemented within the IBM 7040/44 
+operating system.  FORTRAN IV was selected as the s
+======================================
+62. DOC ID:CACM-3050 score=0.15825933
+Text snippet is as below:
+Systems Design Education: A Gaming Approach
+
+One of the problems facing managers of computer
+installations is the problem of configuring 
+the computer system to meet the demands made by the
+mix of job
+======================================
+63. DOC ID:CACM-2972 score=0.15825933
+Text snippet is as below:
+Proof Techniques for Hierarchically Structured Programs
+
+A method for describing and structuring programs
+that simplifies proofs of their correctness 
+is presented.  The method formally represents a p
+======================================
+64. DOC ID:CACM-2095 score=0.15825933
+Text snippet is as below:
+Measurements of Segment Size
+
+Distributions of segment sizes measured under routine operating con
+ditions on a computer system which utilizes variable sized segments
+(the Burroughs B5500) are discusse
+======================================
+65. DOC ID:CACM-0696 score=0.15825933
+Text snippet is as below:
+An Automatic Data Acquisition and Inquiry System Using Disk Files
+
+Lockheed Missiles and Space Company has installed
+a large-scale Automatic Data Acquisition 
+(ADA) system which ties together the Comp
+======================================
+66. DOC ID:CACM-3105 score=0.15825933
+Text snippet is as below:
+A Language Extension for Expressing Constraints on Data Access
+
+Controlled sharing of information is needed and
+desirable for many applications and is supported 
+in operating systems by access control
+======================================
+67. DOC ID:CACM-3006 score=0.15825933
+Text snippet is as below:
+Anomalies with Variable Partition Paging Algorithms
+
+Five types of anomalous behavior which may
+occur in paged virtual memory operating systems 
+a redefined.  One type of anomaly, for example, concern
+======================================
+68. DOC ID:CACM-1755 score=0.14430283
+Text snippet is as below:
+Proceedings of the ACM Symposium on Operating system Principles
+
+CACM May, 1968
+
+ACM Special Interest Committee
+
+CA680501 JB February 23, 1978  9:56 AM
+
+1755	5	1755
+1755	5	1755
+1755	5	1755
+======================================
+69. DOC ID:CACM-2796 score=0.14430283
+Text snippet is as below:
+Monitors: An Operating System Structuring Concept (Corrigendum)
+
+CACM February, 1975
+
+Hoare, C. A. R. 
+
+CA750203 JB January 12, 1978  8:45 AM
+
+2796	5	2796
+2796	5	2796
+2796	5	2796
+2866	5	2796
+2356	6	27
+======================================
+70. DOC ID:CACM-1069 score=0.14430283
+Text snippet is as below:
+A Method for Comparing the Internal Operating Speeds of Computers
+
+CACM May, 1964
+
+Raichelson, E.
+Collins, G.
+
+CA640520 JB March 9, 1978  11:35 PM
+
+1069	5	1069
+1069	5	1069
+1069	5	1069
+1653	5	1069
+2989
+======================================
+71. DOC ID:CACM-1810 score=0.12660746
+Text snippet is as below:
+Is Automatic "Folding" of Programs Efficient Enough To Displace Manual?
+
+The operation of "folding" a program into
+the available memory is discussed.  Measurements 
+by Brown et al. and by Nelson on an
+======================================
+72. DOC ID:CACM-2849 score=0.12660746
+Text snippet is as below:
+Ethernet: Distributed Packet Switching for Local Computer Networks
+
+Ethernet is a branching broadcast communication
+system for carrying digital data packets among 
+locally distributed computing statio
+======================================
+73. DOC ID:CACM-1854 score=0.12660746
+Text snippet is as below:
+On Multiprogramming, Machine Coding, and Computer Organization
+
+The author feels that the interrupt feature
+which is available in most modern computers is 
+a potent source of programming pitfalls and 
+======================================
+74. DOC ID:CACM-2342 score=0.12660746
+Text snippet is as below:
+Interference Between Communicating Parallel Processes
+
+Various kinds of interference between communicating
+parallel processes have been examined by 
+Dijkstra, Knuth, and others.  Solutions have been g
+======================================
+75. DOC ID:CACM-2542 score=0.12660746
+Text snippet is as below:
+A Software Design and Evaluation System
+
+A critical failure of current software system
+design and implementation methodology is that 
+the performance of a proposed design is not evaluated
+before it is
+======================================
+76. DOC ID:CACM-1517 score=0.12660746
+Text snippet is as below:
+Methods for Analyzing Data from Computer Simulation Experiments
+
+This paper addresses itself to the problem of
+analyzing data generated by computer simulations 
+of economic systems.  We first turn to 
+======================================
+77. DOC ID:CACM-3002 score=0.12660746
+Text snippet is as below:
+A Record and File Partitioning Model
+
+One of the main objectives in the design of
+a file system is the reduction of storage and data 
+transfer costs.  This paper presents a model in which
+several  req
+======================================
+78. DOC ID:CACM-2535 score=0.12660746
+Text snippet is as below:
+The Effects of Multiplexing on a Computer-Communications System
+
+A study is made of the way in which asynchronous
+time division multiplexing changes the stochastic 
+nature of the arrival process from 
+======================================
+79. DOC ID:CACM-1877 score=0.12660746
+Text snippet is as below:
+Prevention of System Deadlocks
+
+A well-known problem in the design of operating
+systems is the selection of a resource allocation 
+policy that will prevent deadlock.  Deadlock is the
+situation in whic
+======================================
+80. DOC ID:CACM-1050 score=0.10307345
+Text snippet is as below:
+A Parts Breakdown Technique Using List Structures
+
+List structured parts breakdown is proposed
+and discussed.  Implementation facts are presented 
+on operating program using these techniques.
+
+CACM Ju
+======================================
+81. DOC ID:CACM-1472 score=0.10203751
+Text snippet is as below:
+Description of a High Capacity, Fast
+Turnaround University Computing Center
+
+The operating system for the UNIVAC 1107 at Case
+Institute is reviewed.  The system is of interest 
+because of the low turn
+======================================
+82. DOC ID:CACM-1591 score=0.092191696
+Text snippet is as below:
+A Model for a Multifunctional Teaching System
+
+A teaching system model that was incorporated
+into an operating system of a large computer 
+is described.  The model transferred control to the
+operating
+======================================
+83. DOC ID:CACM-2920 score=0.08926423
+Text snippet is as below:
+Game Interpretation of the Deadlock Avoidance Problem
+
+The deadlock avoidance problem may be defined
+informally as the determination, from some a 
+priori information about the processes, resources, op
+======================================
+84. DOC ID:CACM-2868 score=0.08926423
+Text snippet is as below:
+Reflections on an Operating System Design
+
+The main features of a general purpose multiaccess
+operating system developed for the CDC 6400 
+at Berkeley are presented, and its good and bad points are
+di
+======================================
+85. DOC ID:CACM-2357 score=0.08926423
+Text snippet is as below:
+MUX, a Simple Approach to On-Line Computing
+
+An on-line system operating as part of a normal
+batch system for the CDC 6600 computer is described. 
+ The system, which required one man-year for initial
+
+======================================
+86. DOC ID:CACM-0597 score=0.08829741
+Text snippet is as below:
+Modular Data Processing Systems Written in COBOL
+
+CACM May, 1962
+
+Emery, J. C.
+
+CA620508 JB March 20, 1978  1:47 PM
+
+597	5	597
+597	5	597
+597	5	597
+======================================
+87. DOC ID:CACM-1360 score=0.08829741
+Text snippet is as below:
+Description of Systems Used for Data Transmission* (An ASA Tutorial)
+
+CACM October, 1966
+
+CA661007 JB March 2, 1978  3:54 PM
+
+1360	5	1360
+1360	5	1360
+1360	5	1360
+======================================
+88. DOC ID:CACM-0025 score=0.08829741
+Text snippet is as below:
+General Purpose Programming Systems
+
+CACM May, 1958
+
+Holt, A. W.
+
+CA580503 JB March 22, 1978  9:14 PM
+
+25	5	25
+25	5	25
+25	5	25
+======================================
+89. DOC ID:CACM-0652 score=0.08829741
+Text snippet is as below:
+Use of Semantic Structure in Information Systems
+
+CACM January, 1962
+
+Sable, J. D.
+
+CA620107 JB March 20, 1978  4:37 PM
+
+1324	5	652
+652	5	652
+652	5	652
+652	5	652
+634	6	652
+652	6	652
+653	6	652
+======================================
+90. DOC ID:CACM-0018 score=0.08829741
+Text snippet is as below:
+Simple Automatic Coding Systems
+
+CACM July, 1958
+
+Adams, E. S.
+Schlesinger, S. I.
+
+CA580701 JB March 22, 1978  9:06 PM
+
+18	5	18
+18	5	18
+18	5	18
+======================================
+91. DOC ID:CACM-1464 score=0.08746072
+Text snippet is as below:
+An ALGOL Compiler: Construction and Use
+in Relation to an Elaborate Operating System
+
+An ALGOL translator has been prepared and integrated
+into the IBSYS Operating System.  Assembly 
+and "go" features
+======================================
+92. DOC ID:CACM-2407 score=0.08637957
+Text snippet is as below:
+Curriculum Recommendations for Undergraduate
+Programs in Information Systems
+
+The need for education related to information
+systems in organizations is discussed, and a 
+curriculum is proposed for an 
+======================================
+93. DOC ID:CACM-2311 score=0.08637957
+Text snippet is as below:
+A Generational Perspective of Information System Development
+
+System development is categorized from a generational
+point of view that parallels the commonly 
+described computing system generations.  
+======================================
+94. DOC ID:CACM-2345 score=0.08110635
+Text snippet is as below:
+Curriculum Recommendations for Graduate
+Professional Programs in Information Systems
+
+The need for education related to information
+systems in organizations is discussed, and a 
+curriculum is proposed
+======================================
+95. DOC ID:CACM-2583 score=0.07804462
+Text snippet is as below:
+Guidelines for Humanizing Computerized Information
+Systems: A Report from Stanley House
+
+CACM November, 1974
+
+Sterling, T. D.
+
+humanization, social implication, management, information
+systems, regula
+======================================
+96. DOC ID:CACM-0795 score=0.07726023
+Text snippet is as below:
+Debugging Systems at the Source Language Level
+
+CACM August, 1963
+
+Ferguson, H. E.
+Berner, E.
+
+CA630803 JB March 13, 1978  8:46 PM
+
+1046	4	795
+1105	4	795
+1139	4	795
+1140	4	795
+1234	4	795
+1263	4	795
+12
+======================================
+97. DOC ID:CACM-1912 score=0.07726023
+Text snippet is as below:
+Simulation of Outpatient Appointment Systems
+
+An experimental computer program is described
+which simulates appointment systems employed 
+by outpatient departments of hospitals.  Both major kinds
+of a
+======================================
+98. DOC ID:CACM-2995 score=0.07726023
+Text snippet is as below:
+Decomposability, Instabilities, and Saturation
+in Multiprogramming Systems (Corrigendum)
+
+CACM February, 1977
+
+Courtois, P. J.
+
+CA770205 JB December 30, 1977  2:20 AM
+
+2995	5	2995
+2995	5	2995
+2995	5	2
+======================================
+99. DOC ID:CACM-0651 score=0.07726023
+Text snippet is as below:
+A Survey of Languages and Systems for Information Retrieval
+
+CACM January, 1962
+
+Grems, M.
+
+CA620108 JB March 20, 1978  4:36 PM
+
+651	5	651
+651	5	651
+651	5	651
+======================================
+100. DOC ID:CACM-0238 score=0.07726023
+Text snippet is as below:
+Simulation and Analysis of Biochemical Systems
+
+CACM December, 1961
+
+Garfinkel, D.
+Rutledge, J. D.
+Higgins, J. J.
+
+CA611212 JB March 15, 1978  10:09 PM
+
+238	4	238
+238	4	238
+633	4	238
+643	4	238
+238	5	2
+======================================
+======================================
+Query is code optimization for space efficiency
+======================================
+1. DOC ID:CACM-1795 score=0.64332205
+Text snippet is as below:
+Optimal Code for Serial and Parallel Computation
+
+CACM December, 1969
+
+Fateman, R. J.
+
+code optimization, sequencing of operations,
+detection of common subexpressions
+
+4.12
+
+CA691217 JB February 15, 1
+======================================
+2. DOC ID:CACM-2495 score=0.5975083
+Text snippet is as below:
+Adapting Optimal Code Generation for Arithmetic
+Expressions to the Instruction Sets Available 
+on Present-Day Computers
+
+CACM June, 1973
+
+Stockhausen, P. F.
+
+arithmetic expressions, code generation, c
+======================================
+3. DOC ID:CACM-1947 score=0.5535952
+Text snippet is as below:
+Object code Optimization
+
+Methods of analyzing the control flow and data
+flow of programs during compilation are applied 
+to transforming the program to improve object time efficiency.
+ Dominance rela
+======================================
+4. DOC ID:CACM-2748 score=0.528035
+Text snippet is as below:
+Indirect Threaded Code
+
+An efficient arrangement for interpretive code
+is described.  It is related to Bell's notion 
+of threaded code but requires less space and is more
+amenable to machine independe
+======================================
+5. DOC ID:CACM-2559 score=0.4950907
+Text snippet is as below:
+The Reallocation of Hash-Coded Tables
+
+When the space allocation for a hash-coded table
+is altered, the table entries must be rescattered 
+over the new space.  A technique for accomplishing
+this resca
+======================================
+6. DOC ID:CACM-1886 score=0.44647112
+Text snippet is as below:
+Generation of Optimal Code for Expressions via Factorization
+
+Given a set of expressions which are to be
+compiled, methods are presented for increasing the 
+efficiency of the object code produced by f
+======================================
+7. DOC ID:CACM-2897 score=0.43843484
+Text snippet is as below:
+A Case Study of a New Code Generation Technique for Compilers
+
+Recent developments in optimizing techniques
+have allowed a new design for compilers to emerge. 
+ Such a compiler translates the parsed s
+======================================
+8. DOC ID:CACM-2904 score=0.38659886
+Text snippet is as below:
+An Algorithm for Reduction of Operator Strength
+
+A simple algorithm which uses an indexed temporary
+table to perform reduction of operator strength 
+in strongly connected regions is presented.  Severa
+======================================
+9. DOC ID:CACM-3080 score=0.38377044
+Text snippet is as below:
+Proving the Correctness of Heuristically Optimized Code 
+
+A system for proving that programs written
+in a high level language are correctly translated 
+to a low level language is described.  A primary
+======================================
+10. DOC ID:CACM-2491 score=0.37791464
+Text snippet is as below:
+Threaded Code
+
+The concept of "threaded code" is presented as
+an alternative to machine language code.  Hardware 
+and software realizations of it are given.  In software
+it is realized as interpretive
+======================================
+11. DOC ID:CACM-2680 score=0.3617208
+Text snippet is as below:
+Optimal Space Allocation on Disk Storage Devices
+
+When the amount of space required for file storage
+exceeds the amount which can be kept on-line, 
+decisions must be made as to which files are to be p
+======================================
+12. DOC ID:CACM-2537 score=0.3568571
+Text snippet is as below:
+Common Phrases and Minimum-Space Text Storage
+
+A method for saving storage space for text
+strings, such as compiler diagnostic messages, is 
+described.  The method relies on hand selection of a
+set of
+======================================
+13. DOC ID:CACM-3171 score=0.34712863
+Text snippet is as below:
+Line Numbers Made Cheap
+
+A technique is described for run-time line number administration
+to be used for implementations of high level languages.  Under suitable
+circumstances, this method requires ab
+======================================
+14. DOC ID:CACM-2464 score=0.3463252
+Text snippet is as below:
+The Complex Method for Constrained Optimization [E4] (Algorithm A454)
+
+CACM August, 1973
+
+Richardson, J. A.
+Kuester, J. L.
+
+optimization, constrained optimization, Box's algorithm
+
+5.41
+
+CA730810 JB J
+======================================
+15. DOC ID:CACM-1195 score=0.33868977
+Text snippet is as below:
+UPLIFTS-University of Pittsburgh Linear File Tandem System
+
+A series of computer programs has been developed
+and is now operational for processing the 
+National Aeronautics and Space Administration li
+======================================
+16. DOC ID:CACM-2253 score=0.32735753
+Text snippet is as below:
+Index Ranges for Matrix Calculi
+
+The paper describes a scheme for symbolic
+manipulation of index expressions which arise as 
+a by-product of the symbolic manipulation of expressions
+in the matrix calc
+======================================
+17. DOC ID:CACM-2944 score=0.3262091
+Text snippet is as below:
+Shifting Garbage Collection Overhead to Compile Time
+
+This paper discusses techniques which enable automatic
+storage reclamation overhead to be partially 
+shifted to compile time.  The paper assumes a
+======================================
+18. DOC ID:CACM-2929 score=0.31939238
+Text snippet is as below:
+An Analysis of Inline Substitution for a Structured Programming Language
+
+An optimization technique known as inline substitution
+is analyzed.  The optimization consists 
+of replacing a procedure invoc
+======================================
+19. DOC ID:CACM-1655 score=0.30841085
+Text snippet is as below:
+Code Extension Procedures for Information
+Interchange* (Proposed USA Standard)
+
+CACM December, 1968
+
+standard code, code, information interchange, characters,
+shift out, shift in, escape, data link 
+e
+======================================
+20. DOC ID:CACM-2716 score=0.28945735
+Text snippet is as below:
+Optimizing the Performance of a Relational Algebra Database Interface
+
+An approach for implementing a "smart" interface
+to support a relational view of data is proposed. 
+ The basic idea is to employ 
+======================================
+21. DOC ID:CACM-2423 score=0.2743894
+Text snippet is as below:
+A Parser-Generating System for Constructing Compressed Compilers
+
+This paper describes a parser-generating system
+(PGS) currently in use on the CDC-6500 computer 
+at Purdue University.  The PGS is a F
+======================================
+22. DOC ID:CACM-1564 score=0.2743894
+Text snippet is as below:
+Description of Basic Algorithm in DETAB/65 Preprocessor
+
+The basic algorithm for the conversion of decision
+tables into COBOL code is contained in the
+generator portion of the DETAB/65 preprocessor.  
+======================================
+23. DOC ID:CACM-2374 score=0.27298835
+Text snippet is as below:
+A Study of Storage Partitioning Using a Mathematical Model of Locality
+
+Both fixed and dynamic storage partitioning
+procedures are examined for use in multiprogramming 
+systems.  The storage requireme
+======================================
+24. DOC ID:CACM-3005 score=0.26183242
+Text snippet is as below:
+Implications of Structured Programming for Machine Architecture
+
+Based on an empirical study of more than 10,000
+lines of program text written in a GOTO-less 
+language, a machine architecture specific
+======================================
+25. DOC ID:CACM-2033 score=0.26124457
+Text snippet is as below:
+Space/Time Trade-offs in Hash Coding with Allowable Errors
+
+In this paper trade-offs among certain computational factors
+a given set of messages.  Two new hash-coding methods are examined
+and compared
+======================================
+26. DOC ID:CACM-1651 score=0.24911706
+Text snippet is as below:
+An Interpretive Input Routine for Linear Programming
+
+In this descriptive article an input code
+is presented which greatly simplifies data input 
+to any linear programming solution routine, for subseq
+======================================
+27. DOC ID:CACM-2611 score=0.24534898
+Text snippet is as below:
+The Complex Method for Constrained Optimization (Algorithm R454)
+
+CACM August, 1974
+
+Shere, K. D.
+
+CA740813 JB January 17, 1978  9:28 AM
+
+2611	5	2611
+2611	5	2611
+2611	5	2611
+======================================
+28. DOC ID:CACM-3053 score=0.24334013
+Text snippet is as below:
+Packed Scatter Tables
+
+Scatter tables for open addressing benefit
+from recursive entry displacements, cutoffs for 
+unsuccessful searches, and auxiliary cost functions.  Compared
+with conventional meth
+======================================
+29. DOC ID:CACM-2858 score=0.24334013
+Text snippet is as below:
+A Process for the Determination of
+Addresses in Variable Length Addressing
+
+An algorithm is presented for the assignment
+of instruction addresses and formats under the 
+following conditions: (1) the l
+======================================
+30. DOC ID:CACM-3054 score=0.24068223
+Text snippet is as below:
+Implementing Quicksort Programs
+
+This paper is a practical study of how to
+implement the Quicksort sorting algorithm and its 
+best variants on real computers, including how to apply
+various code optim
+======================================
+31. DOC ID:CACM-0267 score=0.24038294
+Text snippet is as below:
+Some Proposals for Improving the Efficiency of ALGOL 60
+
+CACM November, 1961
+
+Wilkes, M. V.
+
+CA611101 JB March 15,1978  11:01 PM
+
+267	4	267
+1139	4	267
+1141	4	267
+1215	4	267
+1223	4	267
+1647	4	267
+1781	
+======================================
+32. DOC ID:CACM-0797 score=0.23872676
+Text snippet is as below:
+American Standard Code for Information Interchange
+
+CACM August, 1963
+
+CA630801 JB March 13, 1978  8:55 PM
+
+1084	5	797
+797	5	797
+797	5	797
+797	5	797
+868	6	797
+603	6	797
+644	6	797
+669	6	797
+791	6	797
+7
+======================================
+33. DOC ID:CACM-0230 score=0.23872676
+Text snippet is as below:
+A Proposal for Character Code Compatibility
+
+CACM February, 1960
+
+Bemer, R. W.
+
+CA600202 JB March 22, 1978  2:25 PM
+
+230	5	230
+230	5	230
+230	5	230
+333	5	230
+230	6	230
+======================================
+34. DOC ID:CACM-1064 score=0.23872676
+Text snippet is as below:
+Perforated Tape Code for Information
+Interchange (Proposed American Standard)
+
+CACM June, 1964
+
+CA640603 JB March 9, 1978  9:46 PM
+
+1064	5	1064
+1064	5	1064
+1064	5	1064
+======================================
+35. DOC ID:CACM-1289 score=0.23872676
+Text snippet is as below:
+Proposed Revised American Standard Code for Information Interchange
+
+CACM April, 1965
+
+CA650402 JB March 7, 1978  4:03 PM
+
+1289	5	1289
+1289	5	1289
+1289	5	1289
+======================================
+36. DOC ID:CACM-2856 score=0.23869252
+Text snippet is as below:
+The Synthetic Approach to Decision Table Conversion
+
+Previous approaches to the problem of automatically
+converting decision tables to computer 
+programs have been based on decomposition.  At any
+stag
+======================================
+37. DOC ID:CACM-2433 score=0.23437612
+Text snippet is as below:
+Control Structures in Illiac IV Fortran
+
+As part of an effort to design and implement
+a Fortran compiler on the ILLIAC IV, an extended 
+Fortran, called IVTRAN, has been developed.  This language
+provi
+======================================
+38. DOC ID:CACM-1234 score=0.23171572
+Text snippet is as below:
+The Structure of Yet Another ALGOL Compiler
+
+A high-speed "top down" method of syntax analysis
+which completely eliminates "back-up" of 
+the source string has been implemented in a convenient
+macro-la
+======================================
+39. DOC ID:CACM-2701 score=0.22340249
+Text snippet is as below:
+A Fast and Usually Linear Algorithm for Global
+Flow Analysis (Abstract only--Complete paper JACM 
+23,1 January, 1976)
+
+A new algorithm for global flow analysis on
+reducible graphs is presented. The al
+======================================
+40. DOC ID:CACM-1901 score=0.22280307
+Text snippet is as below:
+Dynamic Space-Sharing in Computer Systems
+
+A formalization of relationships between space-shading
+program behavior, and processor efficiency 
+in computer systems is presented.  Concepts of value and
+c
+======================================
+41. DOC ID:CACM-0066 score=0.22071782
+Text snippet is as below:
+A Proposal for a Generalized Card Code for 256 Characters
+
+CACM September, 1959
+
+Bemer, R. W.
+
+CA590903 JB March 22, 1978  4:50 PM
+
+66	5	66
+66	5	66
+66	5	66
+======================================
+42. DOC ID:CACM-1757 score=0.21100664
+Text snippet is as below:
+Data Code for Calendar Date for Machine-to-Machine
+Data Interchange* (Proposed USA Standard)
+
+CACM April, 1968
+
+USA Standard, data code, calendar date, machine-to-machine
+data interchange, recording c
+======================================
+43. DOC ID:CACM-1542 score=0.2106169
+Text snippet is as below:
+A Microprogrammed Implementation of EULER on IBM System/360 Model 30
+
+An experimental processing system for the algorithmic
+language EULER has been implemented in 
+microprogramming on an IBM System/36
+======================================
+44. DOC ID:CACM-2133 score=0.21029912
+Text snippet is as below:
+Algorithm for the Assignment Problem
+(Rectangular Matrices) [H] (Algorithm 415)
+
+CACM December, 1971
+
+Bourgeois, F.
+Lassalle, J. C.
+
+operations research, optimization theory,
+assignment problem, recta
+======================================
+45. DOC ID:CACM-1414 score=0.20888591
+Text snippet is as below:
+Twelve-Row Punched-Card Code for Information
+Interchange* (Proposed American Standard)
+
+CACM June, 1966
+
+CA660607 JB March 3, 1978  8:39 AM
+
+1414	5	1414
+1414	5	1414
+1414	5	1414
+======================================
+46. DOC ID:CACM-1275 score=0.20888591
+Text snippet is as below:
+Code Structures for Protection and Manipulation
+of Variable Length Items (Corrigendum)
+
+CACM April, 1965
+
+Ramamoorthy, C. V.
+
+CA650416 JB March 7, 1978  3:31 PM
+
+1275	5	1275
+1275	5	1275
+1275	5	1275
+======================================
+47. DOC ID:CACM-2835 score=0.20701885
+Text snippet is as below:
+Recursion Analysis for Compiler Optimization
+
+A relatively simple method for the detection
+of recursive use of procedures is presented for 
+use in compiler optimization.  Implementation considerations
+======================================
+48. DOC ID:CACM-0149 score=0.20604253
+Text snippet is as below:
+A Decision Rule for Improved Efficiency in Solving
+Linear Programming Problems with the Simplex 
+Algorithm
+
+CACM September, 1960
+
+Dickson, J. C.
+Frederick, F. P.
+
+CA600908 JB March 20, 1978  8:43 PM
+
+
+======================================
+49. DOC ID:CACM-1670 score=0.20255528
+Text snippet is as below:
+Correspondences of 8-Bit and Hollerith Codes for
+Computer Environments (A USASI Tutorial Standard)
+
+CACM November, 1968
+
+USA standard, card code, punched card, punched card
+code, hole-patterns, hole-p
+======================================
+50. DOC ID:CACM-1992 score=0.20255528
+Text snippet is as below:
+Comment on Bell's Quadratic Quotient Method for Hash Code Searching
+
+CACM September, 1970
+
+Lamport, L.
+
+hashing, hash code, scatter storage, calculated address,
+clustering, search, symbol table, keys,
+======================================
+51. DOC ID:CACM-2722 score=0.19925252
+Text snippet is as below:
+Multidimensional Binary Search Trees Used for Associative Searching
+
+This paper develops the multidimensional binary
+search tree (or k-d tree, where k is the dimensionality 
+of the search space) as a 
+======================================
+52. DOC ID:CACM-2745 score=0.19869836
+Text snippet is as below:
+A Linear Space Algorithm for Computing Maximal Common Subsequences
+
+The problem of finding a longest common subsequence
+of two strings has been solved in quadratic 
+time and space.  An algorithm is pr
+======================================
+53. DOC ID:CACM-2734 score=0.19712423
+Text snippet is as below:
+On the External Storage Fragmentation Produced
+by First-Fit and Best-Fit Allocation Strategies
+
+Published comparisons of the external fragmentation
+produced by first-fit and best-fit memory 
+allocatio
+======================================
+54. DOC ID:CACM-2530 score=0.18242602
+Text snippet is as below:
+An Algorithm for Extracting Phrases in
+a Space-Optimal Fashion [Z] (Algorithm A444)
+
+CACM March, 1973
+
+Wagner, R. A.
+
+information retrieval, coding, text compression
+
+3.70 5.6
+
+CA730309 JB January 24,
+======================================
+55. DOC ID:CACM-3129 score=0.17914577
+Text snippet is as below:
+Optimal Storage Allocation for Serial Files
+
+A computer system uses several serial files.  The files reside on a 
+direct-access storage device in which storage space is limited.  Records are 
+added to
+======================================
+56. DOC ID:CACM-2586 score=0.17904507
+Text snippet is as below:
+Adapting Optimal Code Generation for Arithmetic
+Expressions to the Instruction Sets Available 
+on Present-Day Computers (Errata)
+
+CACM October, 1974
+
+Stockhausen, P. F.
+
+CA741012 JB January 16, 1978  
+======================================
+57. DOC ID:CACM-1065 score=0.17904507
+Text snippet is as below:
+Bit Sequencing of the American Standard Code for
+Information Interchange (ASCII) in Serial-by-Bit 
+Data Transmission (Proposed American Standard)
+
+CACM June, 1964
+
+CA640602 JB March 9, 1978  9:47 PM
+
+
+======================================
+58. DOC ID:CACM-1362 score=0.17705749
+Text snippet is as below:
+Code Extension in ASCII* (An ASA Tutorial)
+
+The American Standard Code for Information
+Interchange (ASCII) contains a number of control 
+characters associated with the principle of code extension,
+tha
+======================================
+59. DOC ID:CACM-0048 score=0.17705749
+Text snippet is as below:
+Shift-Register Code for Indexing Applications
+
+In this communication the use of a shift-register
+code with n = 10 is described for calling 
+64 wireless telemetering stations in a fixed cyclical order.
+======================================
+60. DOC ID:CACM-2711 score=0.1756262
+Text snippet is as below:
+A Vector Space Model for Automatic Indexing
+
+In a document retrieval, or other pattern matching
+environment where stored entities (documents) 
+are compared with each other or with incoming patterns
+(s
+======================================
+61. DOC ID:CACM-2078 score=0.1752548
+Text snippet is as below:
+Representations for Space Planning
+
+Problems involving the arrangement of objects in two- 
+or three-space where the objective function primarily consists
+of derivatives of the distance between objects
+======================================
+62. DOC ID:CACM-1807 score=0.17389299
+Text snippet is as below:
+Optimization of Expressions in Fortran
+
+A method of optimizing the computation of
+arithmetic and indexing expressions of a Fortran 
+program is presented.  The method is based on a linear
+analysis of t
+======================================
+63. DOC ID:CACM-1223 score=0.16849889
+Text snippet is as below:
+High Speed Compilation of Efficient Object Code
+
+A three-pass compiler with the following properties
+is briefly described:  The last two passes 
+scan an intermediate language produced by the preceding
+======================================
+64. DOC ID:CACM-1235 score=0.16849351
+Text snippet is as below:
+A Stochastic Approach to the Grammatical Coding of English
+
+A computer program is described which will
+assign each word in an English text to its form 
+class or part of speech.  The program operates a
+======================================
+65. DOC ID:CACM-3083 score=0.16805974
+Text snippet is as below:
+Pseudochaining in Hash Tables
+
+This paper presents pseudochaining as a new
+collision-resolution method.  Pseudochaining is 
+half way between open addressing and chaining.  It owes
+its name to the fact
+======================================
+66. DOC ID:CACM-1369 score=0.16523181
+Text snippet is as below:
+Half Rotations in N-Dimensional Euclidean Space
+
+An iterative procedure is described for determining
+half rotations in n-dimensional Euclidean 
+space. The method is a variant of the cyclic Jacobi
+proc
+======================================
+67. DOC ID:CACM-1204 score=0.15765558
+Text snippet is as below:
+Character Structure and Character Parity Sense for
+Serial-by-Bit Data Communication in the American 
+Standard Code for Information Interchange (Proposed American Standard)
+
+CACM September, 1965
+
+CA650
+======================================
+68. DOC ID:CACM-2645 score=0.15531684
+Text snippet is as below:
+Two Languages for Estimating Program Efficiency
+
+Two languages enabling their users to estimate
+the efficiency of computer programs are presented. 
+ The program whose efficiency one wishes to estimate
+======================================
+69. DOC ID:CACM-2892 score=0.15143192
+Text snippet is as below:
+A Study of Line Overhead in the Arpanet
+
+The form, extent, and effect of the communication line
+overhead in the ARPANET are considered. 
+ The source of this over head is separated into various
+levels 
+======================================
+70. DOC ID:CACM-1708 score=0.14958504
+Text snippet is as below:
+A Note on the Efficiency of a LISP Computation in a Paged Machine
+
+The problem of the use of two levels of storage
+for programs is explored in the context of 
+a LISP system which uses core memory as a
+======================================
+71. DOC ID:CACM-0093 score=0.14920424
+Text snippet is as below:
+From Formulas to Computer Oriented Language
+
+A technique is shown for enabling a computer
+to translate simple algebraic formulas into a 
+three address computer code.
+
+CACM March, 1959
+
+Wegstein, J. H.
+======================================
+72. DOC ID:CACM-2389 score=0.14902377
+Text snippet is as below:
+Preliminary Report on a System for General Space Planning
+
+A computer language and a set of programs within
+that language are described which allow the 
+formulating and solving of a class of space pla
+======================================
+73. DOC ID:CACM-2863 score=0.14902377
+Text snippet is as below:
+VMIN-An Optimal Variable-Space Page Replacement Algorithm
+
+A criterion for comparing variable space page
+replacement algorithms is presented.  An optimum 
+page replacement algorithm, called VMIN, is d
+======================================
+74. DOC ID:CACM-1652 score=0.14447135
+Text snippet is as below:
+A Code for Non-numeric Information Processing
+Applications in Online Systems
+
+A code has been specifically designed to simplify
+the internal information processing operations 
+within an online compute
+======================================
+75. DOC ID:CACM-1676 score=0.14430216
+Text snippet is as below:
+The LRLTRAN Compiler
+
+Extensive software problems confront an organization
+which possesses a number of different 
+computers and which frequently acquires new ones. 
+To maintain cohesion, a system must
+======================================
+76. DOC ID:CACM-2836 score=0.14363311
+Text snippet is as below:
+Weighted Derivation Trees
+
+The nodes of a weighted derivation tree are associated
+with weighting functions over the vocabulary 
+of a context-free grammar.  An algorithm is presented
+for constructing t
+======================================
+77. DOC ID:CACM-2524 score=0.1414585
+Text snippet is as below:
+Some Approaches to Best-Match File Searching
+
+The problem of searching the set of keys in
+a file to find a key which is closest to a given 
+query key is discussed.  After "closest," in terms of
+a metr
+======================================
+78. DOC ID:CACM-1465 score=0.14062326
+Text snippet is as below:
+Program Translation Viewed as a General Data Processing Problem
+
+Efficiency dictates that the overall effectiveness
+of a compiler be increased by all means 
+available.  For a compiler to have a substa
+======================================
+79. DOC ID:CACM-2126 score=0.13736169
+Text snippet is as below:
+Experience with an Extensible Language
+
+An operational extensible language system is described.
+The system and its base language are appraised with 
+respect to efficiency, flexibility, and utility
+for
+======================================
+80. DOC ID:CACM-1523 score=0.13666514
+Text snippet is as below:
+SHARER, a Time Sharing System for the CDC 6600
+
+A time sharing system embedded within the
+standard batch processing system for the CDC 6600 
+is described.  The system is general purpose and file-based
+======================================
+81. DOC ID:CACM-2230 score=0.13616589
+Text snippet is as below:
+A Language for Treating Geometric Patterns in a Two-dimensional space
+
+In this paper CADEP, a problem-oriented language
+for positioning geometric patterns in a two-dimensional 
+space, is presented.  A
+======================================
+82. DOC ID:CACM-1331 score=0.13049494
+Text snippet is as below:
+Code Structures for Protection and Manipulation of Variable-Length Items
+
+When items are made up of a variable number
+of characters, each containing the same number 
+of bits, certain control informati
+======================================
+83. DOC ID:CACM-2498 score=0.12899466
+Text snippet is as below:
+Minimizing Wasted Space in Partitioned Segmentation
+
+A paged virtual memory system using a finite
+number of page sizes is considered.  Two algorithms 
+for assigning pages to segments are discussed.  B
+======================================
+84. DOC ID:CACM-0794 score=0.12837844
+Text snippet is as below:
+A List-Type Storage Technique for Alphameric Information
+
+A method which is economic in terms of space and
+time is proposed for the storage and manipulation 
+of character strings of arbitrary length i
+======================================
+85. DOC ID:CACM-2344 score=0.12832725
+Text snippet is as below:
+On the Optimization of Performance of Time-Sharing Systems by Simulation
+
+A simulation model of a time-sharing system
+with a finite noncontiguous store and an infinite 
+auxiliary store is used to stud
+======================================
+86. DOC ID:CACM-2950 score=0.12738775
+Text snippet is as below:
+A Unifying Approach to Scheduling
+
+This paper presents a scheme for classifying
+scheduling algorithms based on an abstract model 
+of a scheduling system which formalizes the notion of
+priority.  Vario
+======================================
+87. DOC ID:CACM-1551 score=0.12612447
+Text snippet is as below:
+On Compiling Algorithms for Arithmetic Expressions
+
+This paper deals with algorithms concerning arithmetic
+expressions used in a FORTRAN IV compiler 
+for a HITAC-5020 computer having n accumulators.  
+======================================
+88. DOC ID:CACM-0124 score=0.12612447
+Text snippet is as below:
+An Algorithm for the Assignment Problem
+
+The assignment problem is formulated and briefly
+discussed.  An efficient algorithm for its 
+solution is presented in ALGOL code.  An empirical relation
+betwee
+======================================
+89. DOC ID:CACM-1429 score=0.12610742
+Text snippet is as below:
+Matrix Reduction Using the Hungarian Method
+For The Generation of School Timetables
+
+The application of Kuhn's Hungarian Method
+to the problem of matrix reduction as needed in 
+Gotlieb's method for ti
+======================================
+90. DOC ID:CACM-1270 score=0.12610742
+Text snippet is as below:
+On ALGOL Education: Automatic Grading Programs
+
+Two ALGOL grader programs are presented for
+the computer evaluation of student ALGOL programs. 
+One is for a beginner's program; it furnishes random dat
+======================================
+91. DOC ID:CACM-2365 score=0.12610742
+Text snippet is as below:
+Matrix Computations with Fortran and Paging
+
+The efficiency of conventional Fortran programs
+for matrix computations can often be improved 
+by reversing the order of nested loops.  Such modifications
+
+======================================
+92. DOC ID:CACM-1352 score=0.12610742
+Text snippet is as below:
+Automatic Integration of a Function with a Parameter
+
+Two efficient methods for automatic numerical
+integration are Romberg integration and adaptive 
+Simpson integration.  For integrands of the form f
+======================================
+93. DOC ID:CACM-2816 score=0.12418647
+Text snippet is as below:
+Optimal Reorganization of Distributed Space Disk Files
+
+In most database organizations, the cost of accessing
+the database will increase due to structural 
+changes caused by updates and insertions.  B
+======================================
+94. DOC ID:CACM-2249 score=0.12392385
+Text snippet is as below:
+A Comparison of Multivariate Normal Generators
+
+Three methods for generating outcomes on multivariate
+normal random vectors with a specified 
+variance-covariance matrix are presented.  A comparison
+is
+======================================
+95. DOC ID:CACM-1030 score=0.1231686
+Text snippet is as below:
+Techniques for the Simulation of Computer Logic
+
+The simulation of a digital computer is an
+integral part of most computer design automation 
+systems.  The evaluation of the Boolean functions which
+ch
+======================================
+96. DOC ID:CACM-0693 score=0.12267449
+Text snippet is as below:
+An Extension of Fibonaccian Search To Several Variables
+
+A technique which uses Fibonaccian search
+concepts has been developed to solve optimization 
+problems involving unimodal functions of several v
+======================================
+97. DOC ID:CACM-3175 score=0.121533155
+Text snippet is as below:
+Breaking Substitution Ciphers Using a Relaxation Algorithm
+
+Substitution ciphers are codes in which each letter
+of the alphabet has one fixed substitute, and the word divisions 
+do not change.  In thi
+======================================
+98. DOC ID:CACM-1786 score=0.121533155
+Text snippet is as below:
+An Improved Hash Code for Scatter Storage
+
+Introduced is a hash coding method based on
+fixed-point division rather than multiplication 
+or logical operations.  This new method allows the
+hash table to
+======================================
+99. DOC ID:CACM-3064 score=0.12141173
+Text snippet is as below:
+Event Manipulation for Discrete Simulations
+Requiring Large Numbers of Events
+
+The event-manipulation system presented here consists of
+two major parts.  The first part addresses 
+the familiar problem
+======================================
+100. DOC ID:CACM-0164 score=0.12103897
+Text snippet is as below:
+A Short Study of Notation Efficiency
+
+CACM August, 1960
+
+Smith Jr., H. J.
+
+CA600802 JB March 20, 1978  9:02 PM
+
+205	4	164
+210	4	164
+214	4	164
+1982	4	164
+398	4	164
+642	4	164
+669	4	164
+100	4	164
+123	4	1
+======================================
+======================================
+Query is parallel algorithms
+======================================
+1. DOC ID:CACM-2973 score=1.0088185
+Text snippet is as below:
+Sorting on a Mesh-Connected Parallel Computer
+
+Two algorithms are presented for sorting n^2
+elements on an n X n mesh-connected processor 
+array that require O(n) routing and comparison steps.
+ The be
+======================================
+2. DOC ID:CACM-3075 score=0.9137456
+Text snippet is as below:
+Fast Parallel Sorting Algorithms
+
+A parallel bucket-sort algorithm is presented
+that requires time O(log n) and the use of n 
+processors.  The algorithm makes use of a technique that
+requires more spa
+======================================
+3. DOC ID:CACM-2557 score=0.8322328
+Text snippet is as below:
+On the Time Required for a Sequence of Matrix Products
+
+This paper discusses the multiplication of conformable
+sequences of row vectors, column vectors, 
+and square matrices.  The minimum time require
+======================================
+4. DOC ID:CACM-3156 score=0.8261164
+Text snippet is as below:
+Computing Connected Components on Parallel Computers
+
+We present a parallel algorithm which uses n2 processors to find the connected
+components of an undirected graph with n vertices in time O(log2n).
+======================================
+5. DOC ID:CACM-2266 score=0.8261164
+Text snippet is as below:
+A Highly Parallel Algorithm for Approximating
+All Zeros of a Polynomial with Only Real Zeros
+
+An algorithm is described based on Newton's
+method which simultaneously approximates all zeros 
+of a polyn
+======================================
+6. DOC ID:CACM-1601 score=0.76765776
+Text snippet is as below:
+Parallel Numerical Methods for the Solution of Equations
+
+Classical iterative procedures for the numerical
+solution of equations provide at each stage 
+a single new approximation to the root in questi
+======================================
+7. DOC ID:CACM-0950 score=0.68843037
+Text snippet is as below:
+Parallel Methods for Integrating Ordinary Differential Equations
+
+This paper is dedicated to the proposition that,
+in order to take full advantage for real-time 
+computations of highly parallel comput
+======================================
+8. DOC ID:CACM-1468 score=0.68843037
+Text snippet is as below:
+Syntax-Directed Interpretation of Classes of Pictures
+
+A descriptive scheme for classes of pictures based
+on labeling techniques using parallel processing 
+algorithms was proposed by the author some y
+======================================
+9. DOC ID:CACM-2433 score=0.594452
+Text snippet is as below:
+Control Structures in Illiac IV Fortran
+
+As part of an effort to design and implement
+a Fortran compiler on the ILLIAC IV, an extended 
+Fortran, called IVTRAN, has been developed.  This language
+provi
+======================================
+10. DOC ID:CACM-2570 score=0.594452
+Text snippet is as below:
+A Comparison of List Schedules for Parallel Processing Systems
+
+The problem of scheduling two or more processors
+to minimize the execution time of a program 
+which consists of a set of partially order
+======================================
+11. DOC ID:CACM-2289 score=0.5686563
+Text snippet is as below:
+Cellular Arrays for the Solution of Graph Problems
+
+A cellular array is a two-dimensional, checkerboard
+type interconnection of identical modules 
+(or cells), where each cell contains a few bits of
+me
+======================================
+12. DOC ID:CACM-1957 score=0.5663724
+Text snippet is as below:
+The List Set Generator: A Construct for Evaluating Set Expressions
+
+The list set generator is defined and algorithms
+for its use are given.  The list set generator is
+a construct which may be added to
+======================================
+13. DOC ID:CACM-2838 score=0.5339811
+Text snippet is as below:
+Analysis of an Algorithm for Real Time Garbage Collection
+
+A real time garbage collection system avoids
+suspending the operations of a list processor 
+for the long times that garbage collection normal
+======================================
+14. DOC ID:CACM-2692 score=0.48292387
+Text snippet is as below:
+Reentrant Polygon Clipping
+
+A new family of clipping algorithms is described.
+ These algorithms are able to clip polygons 
+against irregular convex plane-faced volumes in three
+dimensions, removing th
+======================================
+15. DOC ID:CACM-0141 score=0.4730892
+Text snippet is as below:
+Some Thoughts on Parallel Processing
+
+CACM October, 1960
+
+Yarbrough, L. D.
+
+CA601007 JB March 20, 1978  8:16 PM
+
+141	5	141
+141	5	141
+141	5	141
+======================================
+16. DOC ID:CACM-1302 score=0.4730892
+Text snippet is as below:
+Parallel Signaling Speeds for Data Transmission
+(Proposed American Stand ard)
+
+CACM March, 1965
+
+CA650305 JB March 7, 1978  6:08 PM
+
+1302	5	1302
+1302	5	1302
+1302	5	1302
+======================================
+17. DOC ID:CACM-0392 score=0.4730892
+Text snippet is as below:
+Comment on A Paper on Parallel Processing
+
+CACM February, 1961
+
+Nekora, M. R.
+
+CA610206 JB March 17, 1978  12:58 AM
+
+392	5	392
+392	5	392
+392	5	392
+======================================
+18. DOC ID:CACM-2723 score=0.47197703
+Text snippet is as below:
+Multiprocessing Compactifying Garbage Collection
+
+Algorithms for a multiprocessing compactifying
+garbage collector are presented and discussed. 
+ The simple case of two processors, one performing LISP
+======================================
+19. DOC ID:CACM-2114 score=0.47197703
+Text snippet is as below:
+A Formal System for Information Retrieval from Files
+
+A generalized file structure is provided
+by which the concepts of keyword, index, record, file, directory,
+file structure, directory decoding, and
+======================================
+20. DOC ID:CACM-2182 score=0.41395304
+Text snippet is as below:
+Interrupt Driven Programming
+
+CACM July, 1971
+
+Zelkowitz, M.
+
+interrupts, supervisors, monitors, debugging, parallel
+processing, associative memories, microprogramming
+
+3.51 4.32 4.42
+
+CA710608 JB Feb
+======================================
+21. DOC ID:CACM-2685 score=0.40970725
+Text snippet is as below:
+The Parallel Execution of DO Loops
+
+Methods are developed for the parallel execution
+of different iterations of a DO loop.  Both 
+asynchronous multiprocessor computers and array computers
+are consider
+======================================
+22. DOC ID:CACM-2714 score=0.39114887
+Text snippet is as below:
+Merging with Parallel Processors
+
+Consider two linearly ordered sets A, B, |A|=m,
+|B|=n, m<=n, and p, p<=m, parallel processors 
+working synchronously.  The paper presents an algorithm
+for merging A a
+======================================
+23. DOC ID:CACM-2896 score=0.35849383
+Text snippet is as below:
+An Exercise in Proving Parallel Programs Correct
+
+A parallel program, Dijkstra's on-the-fly garbage
+collector, is proved correct using a proof 
+method developed by Owicki.  The fine degree of in terle
+======================================
+24. DOC ID:CACM-1795 score=0.35481688
+Text snippet is as below:
+Optimal Code for Serial and Parallel Computation
+
+CACM December, 1969
+
+Fateman, R. J.
+
+code optimization, sequencing of operations,
+detection of common subexpressions
+
+4.12
+
+CA691217 JB February 15, 1
+======================================
+25. DOC ID:CACM-1367 score=0.35481688
+Text snippet is as below:
+Character Structure and Character Parity Sense
+for Parallel-by-Bit Data Communication in ASCII* 
+(Proposed American Standard)
+
+CACM September, 1966
+
+CA660912 JB March 2, 1978  4:26 PM
+
+1367	4	1367
+277
+======================================
+26. DOC ID:CACM-1828 score=0.35481688
+Text snippet is as below:
+Synchronization in a Parallel-Accessed Data Base
+
+The following problem is considered:  Given
+a data base which can be manipulated simultaneously 
+by more than one process, what are the rules for sync
+======================================
+27. DOC ID:CACM-2700 score=0.35481688
+Text snippet is as below:
+Reduction: A Method of Proving Properties of Parallel Programs
+
+When proving that a parallel program has a
+given property it is often convenient to assume 
+that a statement is indivisible, i.e. that t
+======================================
+28. DOC ID:CACM-1262 score=0.35481688
+Text snippet is as below:
+Procedure-Oriented Language Statements to Facilitate Parallel Processing
+
+Two statements are suggested which allow a programmer
+writing in a procedure-oriented language 
+to indicate sections of progra
+======================================
+29. DOC ID:CACM-2007 score=0.3525926
+Text snippet is as below:
+Algorithms Policy/Revised August 1970
+
+CACM August, 1970
+
+CA700814 JB February 10, 1978  3:12 PM
+
+2007	5	2007
+2007	5	2007
+2007	5	2007
+======================================
+30. DOC ID:CACM-0371 score=0.34904885
+Text snippet is as below:
+Remarks on Algorithms 2 and 3, Algorithm 15 and Algorithms 25 and 26
+
+CACM March, 1961
+
+Wilkinson, J. H.
+
+CA610311 JB March 17, 1978  12:35 AM
+
+371	5	371
+371	5	371
+371	5	371
+======================================
+31. DOC ID:CACM-1158 score=0.33452457
+Text snippet is as below:
+Program Structures for Parallel Processing
+
+Constructs for organizing and explicating parallel
+program segments are discussed as extensions 
+to ALGOL 60.  The constructs serve as meta-commands and
+are
+======================================
+32. DOC ID:CACM-2785 score=0.30728042
+Text snippet is as below:
+Glypnir-A Programming Language for Illiac IV
+
+GLYPNIR is one of the earliest existing languages
+designed for programming the Illiac IV computer. 
+The syntax of the language is based on ALGOL 60, but h
+======================================
+33. DOC ID:CACM-1796 score=0.29918474
+Text snippet is as below:
+Index by Subject to Algorithms, 1969
+
+CACM December, 1969
+
+This 1969 index is the first supplement to the
+Index by Subject to Algorithms, 1960 1968 (Comm. 
+ACM 11, 12 (Dec. 1968), 827 830).
+
+CA691216 
+======================================
+34. DOC ID:CACM-2952 score=0.29568073
+Text snippet is as below:
+Functions Realizable with Word-Parallel Logical
+and Two's-Complement Addition Instructions
+
+CACM June, 1977
+
+Warren, H. S. Jr.
+
+Boolean functions, two's-complement, sign propagation
+
+4.0 6.32
+
+CA77061
+======================================
+35. DOC ID:CACM-2895 score=0.292709
+Text snippet is as below:
+A Language for Formal Problem Specification
+
+A language for specifying the in tended behavior
+of communicating parallel processes is described. 
+ The specifications are constrain ts on the order in wh
+======================================
+36. DOC ID:CACM-1811 score=0.2897068
+Text snippet is as below:
+A Case Study in Programming for Parallel-Processors
+
+An affirmative partial answer is provided to
+the question of whether it is possible to program 
+parallel-processor computing systems to efficiently
+======================================
+37. DOC ID:CACM-0270 score=0.28207406
+Text snippet is as below:
+Techniques for Storage Allocation Algorithms 
+
+CACM October, 1961
+
+Kelley Jr., J. E.
+
+CA611011 JB March 16, 1978  12:50 PM
+
+270	5	270
+270	5	270
+270	5	270
+678	5	270
+270	6	270
+======================================
+38. DOC ID:CACM-1342 score=0.28207406
+Text snippet is as below:
+Transportation Problem (Algorithms 293 [H])
+
+CACM December, 1966
+
+Bayer, G.
+
+CA661207a JB March 2, 1978  2:30 PM
+
+1342	5	1342
+1342	5	1342
+1342	5	1342
+======================================
+39. DOC ID:CACM-1952 score=0.28207406
+Text snippet is as below:
+Index by Subject to Algorithms, 1970
+
+CACM December, 1970
+
+CA701211 JB February 9, 1978  2:50 PM
+
+1952	5	1952
+1952	5	1952
+1952	5	1952
+======================================
+40. DOC ID:CACM-1660 score=0.28207406
+Text snippet is as below:
+Index By Subject To algorithms, 1960-1968
+
+CACM December, 1968
+
+CA681206 JB February 21, 1978  1:39 PM
+
+1660	5	1660
+1660	5	1660
+1660	5	1660
+======================================
+41. DOC ID:CACM-0804 score=0.28207406
+Text snippet is as below:
+Exponentiation of Series (Algorithms 134)
+
+CACM July, 1963
+
+Thacher Jr., H. C.
+
+CA630720 JB March 14, 1978  8:19 AM
+
+804	5	804
+804	5	804
+804	5	804
+======================================
+42. DOC ID:CACM-2325 score=0.28207406
+Text snippet is as below:
+Numerical Mathematics and Computer Science
+
+Numerical mathematics is viewed as the analysis
+of continuous algorithms.  Four of the components 
+of numerical mathematics are discussed.  These are: found
+======================================
+43. DOC ID:CACM-2342 score=0.2644649
+Text snippet is as below:
+Interference Between Communicating Parallel Processes
+
+Various kinds of interference between communicating
+parallel processes have been examined by 
+Dijkstra, Knuth, and others.  Solutions have been g
+======================================
+44. DOC ID:CACM-2851 score=0.2644649
+Text snippet is as below:
+Formal Verification of Parallel Programs
+
+Two formal models for parallel computation
+are presented: an abstract conceptual model and 
+a parallel-program model.  The former model does not
+distinguish b
+======================================
+45. DOC ID:CACM-3059 score=0.25606704
+Text snippet is as below:
+Models for Parallel Processing WIthin Programs:
+Application to CPU:I/O and I/O:I/O Overlap
+
+Approximate queueing models for internal parallel
+processing by individual programs in a multiprogrammed 
+sy
+======================================
+46. DOC ID:CACM-2865 score=0.25606704
+Text snippet is as below:
+Verifying Properties of Parallel Programs: An Axiomatic Approach
+
+An axiomatic method for proving a number
+of properties of parallel programs is presented.  
+Hoare has given a set of axioms for partia
+======================================
+47. DOC ID:CACM-2401 score=0.25606704
+Text snippet is as below:
+On Shrinking Binary Picture Patterns
+
+A parallel processing algorithm for shrinking
+binary patterns to obtain single isolated elements, 
+one for each pattern, is presented.  This procedure
+may be used
+======================================
+48. DOC ID:CACM-2080 score=0.2508934
+Text snippet is as below:
+The Nucleus of a Multiprogramming System
+
+This paper describes the philosophy and structure of a multiprogramming system 
+that can be extended with a hierarchy of operating systems to suit diverse 
+re
+======================================
+49. DOC ID:CACM-3073 score=0.2508934
+Text snippet is as below:
+Communicating Sequential Processes
+
+This paper suggests that input and output are
+basic primitives of programming and that parallel 
+composition of communicating sequential processes is
+a fundamental 
+======================================
+50. DOC ID:CACM-2417 score=0.2468148
+Text snippet is as below:
+Four Combinatorial Algorithms [G6] (Algorithm A466)
+
+CACM November, 1973
+
+Ehrlich, G.
+
+permutations and combinations
+
+5.39
+
+CA731109 JB January 20, 1978  9:59 AM
+
+2044	4	2417
+2189	4	2417
+2417	4	2417
+2
+======================================
+51. DOC ID:CACM-2226 score=0.2468148
+Text snippet is as below:
+Further Evidence for the Analysis of Algorithms
+for the Zero-One Programming Problem
+
+The purpose of this note is to report computational
+experience additional to that recently 
+summarized by Gue et a
+======================================
+52. DOC ID:CACM-1374 score=0.2468148
+Text snippet is as below:
+Evaluation of Determinant; Determinant
+Evaluation (Algorithms 41[F3]; 269[F3])
+
+CACM September, 1966
+
+Bergson, A.
+
+CA660909e JB March 23, 1978  4:29 PM
+
+1374	5	1374
+1374	5	1374
+1374	5	1374
+======================================
+53. DOC ID:CACM-2725 score=0.2468148
+Text snippet is as below:
+A Comparison of Simulation Event List Algorithms (Corrigendum)
+
+CACM August, 1975
+
+Vaucher, J. C.
+Duval, P.
+
+CA750810 JB January 6, 1978  3:43 PM
+
+2725	5	2725
+2725	5	2725
+2725	5	2725
+======================================
+54. DOC ID:CACM-1851 score=0.2468148
+Text snippet is as below:
+Generator of Spanning Trees (Algorithms 354 [H])
+
+CACM September, 1969
+
+McIlroy, M. D.
+
+spanning trees, trees, graphs
+
+5.32
+
+CA690904 JB February 15, 1978  4:50 PM
+
+1851	5	1851
+1851	5	1851
+1851	5	1851
+======================================
+55. DOC ID:CACM-1953 score=0.2468148
+Text snippet is as below:
+Exponential Integral Ei(x) (Algorithms 385 $S13))
+
+CACM December, 1970
+
+Redish, K. A.
+
+ANSI Fortran standard
+
+4.0 4.22
+
+CA701210 JB February 9, 1978  3:04 PM
+
+1953	5	1953
+1953	5	1953
+1953	5	1953
+======================================
+56. DOC ID:CACM-2830 score=0.2468148
+Text snippet is as below:
+A Practitioner's Guide to Addressing Algorithms (Corrigendum)
+
+CACM September, 1976
+
+Severance, D. G.
+Duhne, R. A.
+
+CA760909 JB January 4, 1978  8:43 AM
+
+2830	5	2830
+2830	5	2830
+2830	5	2830
+======================================
+57. DOC ID:CACM-1551 score=0.2442833
+Text snippet is as below:
+On Compiling Algorithms for Arithmetic Expressions
+
+This paper deals with algorithms concerning arithmetic
+expressions used in a FORTRAN IV compiler 
+for a HITAC-5020 computer having n accumulators.  
+======================================
+58. DOC ID:CACM-3044 score=0.2365446
+Text snippet is as below:
+A Note on Conditional Expressions
+
+Evaluation of a conditional expression may succeed
+even when the "deciding predicate" diverges 
+and the alternatives are records (or nodes) whose fields have differe
+======================================
+59. DOC ID:CACM-1569 score=0.2365446
+Text snippet is as below:
+Implementing Phrase-Structure Productions in PL/I
+
+A method is described for implementing the productions
+of a context-free phrase structure grammar 
+in a PL/I procedure whose structure and statements
+======================================
+60. DOC ID:CACM-2884 score=0.23321806
+Text snippet is as below:
+Permutation Enumeration: Four New Permutation Algorithms
+
+Classical permutation enumeration algorithms encounter
+special cases requiring additional computation 
+every nth permutation when generating t
+======================================
+61. DOC ID:CACM-2902 score=0.21591799
+Text snippet is as below:
+Dynamic Memory Allocation in Computer Simulation
+
+This paper investigates the performance of
+35 dynamic memory allocation algorithms when used 
+to service simulation programs as represented by 18
+test
+======================================
+62. DOC ID:CACM-2950 score=0.21591799
+Text snippet is as below:
+A Unifying Approach to Scheduling
+
+This paper presents a scheme for classifying
+scheduling algorithms based on an abstract model 
+of a scheduling system which formalizes the notion of
+priority.  Vario
+======================================
+63. DOC ID:CACM-3166 score=0.21591799
+Text snippet is as below:
+Computing Standard Deviations: Accuracy
+
+Four algorithms for the numerical computation
+of the standard deviation of (unweighted) sampled data
+are analyzed.  Two of the algorithms are well-known in the
+======================================
+64. DOC ID:CACM-2505 score=0.21155554
+Text snippet is as below:
+Reflection-Free Permutations, Rosary Permutations,
+and Adjacent Transposition Algorithms
+
+CACM May, 1973
+
+Roy, M. K.
+
+permutation, permutation generation, scheduling, combinatorial analysis
+
+5.39
+
+CA7
+======================================
+65. DOC ID:CACM-2362 score=0.21155554
+Text snippet is as below:
+Linear Equation Solver [F4] (Algorithm A423)
+
+CACM April, 1972
+
+Moler, C. B.
+
+matrix algorithms, linear equations, Fortran,
+paged memory, virtual memory, array processing
+
+4.22 4.32 5.14
+
+CA720411 JB 
+======================================
+66. DOC ID:CACM-3061 score=0.21155554
+Text snippet is as below:
+Simulations of Dynamic Sequential Search Algorithms
+
+None
+
+CACM September, 1978
+
+Tenenbaum, A.
+
+Searching, list processing, sequential
+searching, dynamic reordering, simulation 
+
+3.74 8.1
+
+CA780911 DH
+======================================
+67. DOC ID:CACM-2942 score=0.21155554
+Text snippet is as below:
+An Algol-Based Implementation of SNOBOL 4 Patterns
+
+CACM July, 1977
+
+Brownlee, J. N.
+
+patterns SNOBOL 4, pattern matching, string processing,
+pattern implementation, algorithms in Pascal
+
+4.29
+
+CA7707
+======================================
+68. DOC ID:CACM-2863 score=0.21155554
+Text snippet is as below:
+VMIN-An Optimal Variable-Space Page Replacement Algorithm
+
+A criterion for comparing variable space page
+replacement algorithms is presented.  An optimum 
+page replacement algorithm, called VMIN, is d
+======================================
+69. DOC ID:CACM-2025 score=0.21155554
+Text snippet is as below:
+Student's t-Distribution; Jacobi Polynomials;
+Modified Romberg Quadrature;
+Factorial Analysis of Variance; (Algorithms 332,344,351,359) 
+
+CACM July, 1970
+
+Sale, A. H. J.
+
+Fortran standards
+
+4.0 4.22
+
+
+======================================
+70. DOC ID:CACM-1658 score=0.21155554
+Text snippet is as below:
+Analysis of Algorithms for the Zero-One Programming Problem
+
+This paper is concerned with a review and examination
+of several existing algorithms for the 
+zero-one programming problem.  Computational 
+======================================
+71. DOC ID:CACM-2222 score=0.21155554
+Text snippet is as below:
+Comment on London's Certification of Algorithm 245
+
+CACM January, 1971
+
+Redish, K. A.
+
+proof of algorithms, debugging, certification,
+metatheory,  sorting, in-place sorting
+
+4.42 4.49 5.24 5.31
+
+CA710
+======================================
+72. DOC ID:CACM-2740 score=0.20907786
+Text snippet is as below:
+A Large Semaphore Based Operating System
+
+The paper describes the internal structure of
+a large operating system as a set of cooperating 
+sequential processes.  The processes synchronize by
+means of s
+======================================
+73. DOC ID:CACM-2727 score=0.20697652
+Text snippet is as below:
+Multiple Byte Processing with Full-Word Instructions
+
+A method is described which allows parallel
+processing of packed data items using only ordinary 
+full-word computer instructions, even though the 
+======================================
+74. DOC ID:CACM-1200 score=0.20697652
+Text snippet is as below:
+On Reversible Subroutines and Computers that Run Backwards
+
+A computer design is describe which permits
+subroutines to be executed backward as well as 
+forward, either with their instructions unchange
+======================================
+75. DOC ID:CACM-1380 score=0.20697652
+Text snippet is as below:
+SIMULA-an ALGOL-Based Simulation Language
+
+This paper is an introduction to SIMULA, a
+programming language designed to provide a systems 
+analyst with unified concepts which facilitate the
+concise des
+======================================
+76. DOC ID:CACM-1008 score=0.20697652
+Text snippet is as below:
+Scheduling Meetings with a Computer
+
+Computer scheduling of papers as it was developed
+for the 1960 meeting of the Federation of 
+American Societies for Experimental Biology (FASEB) is described.
+ The
+======================================
+77. DOC ID:CACM-1747 score=0.20485362
+Text snippet is as below:
+Three Criteria for Designing Computing Systems to Facilitate Debugging
+
+The designer of a computing system should adopt
+explicit criteria for accepting or rejecting 
+proposed system features.  Three p
+======================================
+78. DOC ID:CACM-2175 score=0.20485362
+Text snippet is as below:
+Subexpression Ordering in the Execution of Arithmetic Expressions
+
+An arithmetic expression can often be broken
+down into its component subexpressions.  Depending 
+on the hardware environment in which
+======================================
+79. DOC ID:CACM-1846 score=0.20485362
+Text snippet is as below:
+On Simulating Networks of Parallel Processes
+in Which Simultaneous Events May Occur
+
+Some of the problems of simulating discrete
+event systems, particularly computer systems, on 
+a conventional digita
+======================================
+80. DOC ID:CACM-2195 score=0.20485362
+Text snippet is as below:
+On the Optimal Detection of Curves in Noisy Pictures
+
+A technique for recognizing systems of lines
+is presented.  In this technique the heuristic 
+of the problem is not embedded in the recognition alg
+======================================
+81. DOC ID:CACM-2272 score=0.19945648
+Text snippet is as below:
+Sorting by Natural Selection
+
+A family of sorting algorithms is proposed,
+the members of which make fuller use of the memory 
+space and thus yield longer sorted strings.  Extensive
+simulation results 
+======================================
+82. DOC ID:CACM-1873 score=0.19945648
+Text snippet is as below:
+Accelerating LP Algorithms
+
+It is shown how a novel method for computing
+(related) inner products can accelerate the pricing 
+phase of LP algorithms.  Other LP applications are indicated.
+
+CACM July, 
+======================================
+83. DOC ID:CACM-2146 score=0.19710524
+Text snippet is as below:
+Optimizing the Polyphase Sort
+
+Various dispersion algorithms for the polyphase
+sorting procedure are examinedhe optimum 
+algorithm based on minimizing the total number of unit
+strings read is displaye
+======================================
+84. DOC ID:CACM-2903 score=0.19710524
+Text snippet is as below:
+Improving Programs by the Introduction of Recursion
+
+A new technique of program transformation,
+called "recursion in troduction," is described and 
+applied to two algorithms which solve pattern matchi
+======================================
+85. DOC ID:CACM-2273 score=0.19710524
+Text snippet is as below:
+Conversion of Decision Tables By Rule Mask Method Without Rule Mask
+
+Two algorithms for generating computer programs
+from decision tables are described.  The algorithms 
+allow handling limited entry, 
+======================================
+86. DOC ID:CACM-2283 score=0.19710524
+Text snippet is as below:
+Thinning Algorithms on Rectangular, Hexagonal, and Triangular Arrays
+
+In this report three thinning algorithms are
+developed: one each for use with rectangular, 
+hexagonal, and triangular arrays.  The
+======================================
+87. DOC ID:CACM-1924 score=0.19710524
+Text snippet is as below:
+Organizing Matrices and Matrix Operations for Paged Memory Systems
+
+Matrix representations and operations are examined
+for the purpose of minimizing the page faulting 
+occurring in a paged memory syst
+======================================
+88. DOC ID:CACM-3006 score=0.19710524
+Text snippet is as below:
+Anomalies with Variable Partition Paging Algorithms
+
+Five types of anomalous behavior which may
+occur in paged virtual memory operating systems 
+a redefined.  One type of anomaly, for example, concern
+======================================
+89. DOC ID:CACM-2679 score=0.18321247
+Text snippet is as below:
+Some Performance Tests of "quicksort" and Descendants
+
+Detailed performance evaluations are presented
+for six ACM algorithms: quicksort (No. 64), 
+Shellsort (No. 201), stringsort (No. 207), "TREESORT3
+======================================
+90. DOC ID:CACM-2997 score=0.18321247
+Text snippet is as below:
+Convex Hulls of Finite Sets of Poin ts in Two and Three Dimensions
+
+The convex hulls of sets of n poin ts in two
+and three dimensions can be determined with O(n 
+log n) operations.  The presented algo
+======================================
+91. DOC ID:CACM-2490 score=0.18321247
+Text snippet is as below:
+Efficient Algorithms for Graph Manipulation [H] (Algorithm A447)
+
+Efficient algorithms are presented for partitioning
+a graph into connected components, biconnected 
+components and simple paths.  The 
+======================================
+92. DOC ID:CACM-1392 score=0.18321247
+Text snippet is as below:
+Experience with FORMAC Algorithm Design
+
+Various facets of the design and implementation
+of mathematical expression manipulation algorithms 
+are discussed.  Concrete examples are provided by the
+FORMA
+======================================
+93. DOC ID:CACM-1471 score=0.17740844
+Text snippet is as below:
+Programming Semantics for Multiprogrammed computations
+
+The semantics are defined for a number of meta-instructions
+which perform operation essential 
+to the writing of programs in multiprogrammed com
+======================================
+94. DOC ID:CACM-2376 score=0.17740844
+Text snippet is as below:
+Synchronization of Communicating Processes
+
+Formalization of a well-defined synchronization
+mechanism can be used to prove that concurrently 
+running processes of a system communicate correctly.
+ This
+======================================
+95. DOC ID:CACM-1536 score=0.17740844
+Text snippet is as below:
+Dynamic Computation of Derivatives
+
+It is shown how Wengert's procedure for computation
+of derivatives can be implemented conveniently 
+by use of compiler-generated complex addition, subtraction,
+and 
+======================================
+96. DOC ID:CACM-1341 score=0.17740844
+Text snippet is as below:
+Levels of Computer Systems
+
+In building current computer systems, we tend
+to break them down into "levels" of control, 
+command and communication; in using the system, we break
+our problems down corre
+======================================
+97. DOC ID:CACM-3175 score=0.17740844
+Text snippet is as below:
+Breaking Substitution Ciphers Using a Relaxation Algorithm
+
+Substitution ciphers are codes in which each letter
+of the alphabet has one fixed substitute, and the word divisions 
+do not change.  In thi
+======================================
+98. DOC ID:CACM-1960 score=0.17740844
+Text snippet is as below:
+Process Management and Resource Sharing in the Multiaccess System ESOPE
+
+The main design principles of the multiaccess system ESOPE are described.
+Emphasis is placed on basic ideas underlying the desi
+======================================
+99. DOC ID:CACM-1554 score=0.17740844
+Text snippet is as below:
+A Computer Technique for Displaying n-Dimensional Hyperobjects
+
+A digital computer and automatic plotter have
+been used to generate three-dimensional stereoscopic 
+movies of the three-dimensional para
+======================================
+100. DOC ID:CACM-2514 score=0.17740844
+Text snippet is as below:
+An Array Grammar Programming System
+
+A package of Fortran programs has been developed
+that permits a user to interactively design 
+and test array grammars.  The user can control the rule
+selection pro
+======================================
+======================================
+Query is parallel processor in information retrieval
+======================================
+1. DOC ID:CACM-2967 score=0.7082254
+Text snippet is as below:
+A Comparison of Hardware and Software Associative
+Memories in the Context of Computer Graphics
+
+The Associative Processing of Line Drawings (APLD)
+System utilizes a hardware associative memory 
+and cr
+======================================
+2. DOC ID:CACM-0634 score=0.5461165
+Text snippet is as below:
+Manipulation of Trees in Information Retrieval*
+
+CACM February, 1962
+
+Salton, G.
+
+CA620209 JB March 20, 1978  3:44 PM
+
+1087	4	634
+634	4	634
+931	5	634
+1324	5	634
+329	5	634
+634	5	634
+634	5	634
+634	5	634
+======================================
+3. DOC ID:CACM-2973 score=0.5330611
+Text snippet is as below:
+Sorting on a Mesh-Connected Parallel Computer
+
+Two algorithms are presented for sorting n^2
+elements on an n X n mesh-connected processor 
+array that require O(n) routing and comparison steps.
+ The be
+======================================
+4. DOC ID:CACM-1811 score=0.51177335
+Text snippet is as below:
+A Case Study in Programming for Parallel-Processors
+
+An affirmative partial answer is provided to
+the question of whether it is possible to program 
+parallel-processor computing systems to efficiently
+======================================
+5. DOC ID:CACM-0891 score=0.41518122
+Text snippet is as below:
+Everyman's Information Retrieval System
+
+The information retrieval problem whose solution
+is presented here was posed by a technical 
+library with limited bubget and personnel.  The solution,
+however,
+======================================
+6. DOC ID:CACM-2965 score=0.40958735
+Text snippet is as below:
+An Optimal Evaluation of Boolean Expressions in an Online Query System
+
+CACM May, 1977
+
+Hanani, M. Z.
+
+query, Boolean expression, information retrieval, file organization
+
+3.5 3.70 3.74
+
+CA770507 JB D
+======================================
+7. DOC ID:CACM-2530 score=0.40958735
+Text snippet is as below:
+An Algorithm for Extracting Phrases in
+a Space-Optimal Fashion [Z] (Algorithm A444)
+
+CACM March, 1973
+
+Wagner, R. A.
+
+information retrieval, coding, text compression
+
+3.70 5.6
+
+CA730309 JB January 24,
+======================================
+8. DOC ID:CACM-3168 score=0.40958735
+Text snippet is as below:
+Comment on "An Optimal Evaluation of Boolean
+Expressions in an Online Query System."
+
+CACM October, 1979
+
+Laird, P.
+
+Query, Boolean expression, information retrieval, file organization
+
+3.53.70 3.73 3
+======================================
+9. DOC ID:CACM-2976 score=0.40958735
+Text snippet is as below:
+Approximating Block Accesses in Database Organizations
+
+CACM April, 1977
+
+Yao, S. B.
+
+database, inverted file organization, database performance
+and measurement, information retrieval, 
+query answerin
+======================================
+10. DOC ID:CACM-2288 score=0.40007916
+Text snippet is as below:
+File Organization: The Consecutive Retrieval Property
+
+The consecutive retrieval property is an important
+relation between a query set and record 
+set.  Its existence enables the design of an informat
+======================================
+11. DOC ID:CACM-1927 score=0.38666227
+Text snippet is as below:
+Information Science in a Ph. Computer Science Program
+
+This report contains recommendations on a sample course
+curriculum in the general area of information 
+organization and information system design
+======================================
+12. DOC ID:CACM-2278 score=0.37855646
+Text snippet is as below:
+On Foster's Information Storage and Retrieval Using AVL Trees
+
+CACM September, 1972
+
+Tan, K. C.
+
+binary trees, search trees, information storage, information retrieval
+
+3.70 3.73 3.74
+
+CA720912 JB Jan
+======================================
+13. DOC ID:CACM-2838 score=0.35851765
+Text snippet is as below:
+Analysis of an Algorithm for Real Time Garbage Collection
+
+A real time garbage collection system avoids
+suspending the operations of a list processor 
+for the long times that garbage collection normal
+======================================
+14. DOC ID:CACM-2882 score=0.35653657
+Text snippet is as below:
+A Stochastic Evaluation Model for Database
+Organization in Data Retrieval Systems
+
+Experimental work in the valuation of large
+scale data retrieval systems has been scarce due 
+to its difficulty and p
+======================================
+15. DOC ID:CACM-1457 score=0.35578042
+Text snippet is as below:
+Data Manipulation and Programming Problems
+in Automatic Information Retrieval
+
+Automatic information retrieval programs require
+the manipulation of a variety of different 
+data structures, including l
+======================================
+16. DOC ID:CACM-2140 score=0.35020137
+Text snippet is as below:
+Retrieval-Update Speed Tradeoffs Using Combined Indices
+
+In a paper in the November 1970 Communications
+of the ACM, V. Y. Lum introduced a technique 
+of file indexing named combined indices.  This tec
+======================================
+17. DOC ID:CACM-1699 score=0.34822118
+Text snippet is as below:
+Experimental Evaluation of Information
+Retrieval Through a Teletypewriter
+
+Experiments designed to evaluate the capabilities
+of mechanized information retrieval systems, 
+with emphasis on interactive 
+======================================
+18. DOC ID:CACM-1601 score=0.34366482
+Text snippet is as below:
+Parallel Numerical Methods for the Solution of Equations
+
+Classical iterative procedures for the numerical
+solution of equations provide at each stage 
+a single new approximation to the root in questi
+======================================
+19. DOC ID:CACM-3169 score=0.34132278
+Text snippet is as below:
+Note on "An Optimal Evaluation of Boolean Expressions 
+in an Online Query System."
+
+CACM October, 1979
+
+Gudes, E.
+Hoffman, A.
+
+Query, Boolean expression, optimal evaluation, information retrieval
+
+3.5
+======================================
+20. DOC ID:CACM-2516 score=0.3396688
+Text snippet is as below:
+Hierarchical Storage in Information Retrieval
+
+A probabilistic analysis is employed to determine
+the effect of hierarchical storage organizations 
+on information retrieval operations.  The data storag
+======================================
+21. DOC ID:CACM-1935 score=0.3378923
+Text snippet is as below:
+Randomized Binary Search Technique
+
+A mathematical model is developed for the mean
+and variance of the number of trials to recover 
+a given document in a randomly received list of files.
+ The search m
+======================================
+22. DOC ID:CACM-2519 score=0.32636416
+Text snippet is as below:
+On the Problem of Communicating Complex Information
+
+The nature of the difficulty involved in communicating
+mathematical results between scientists 
+using a computer based information retrieval system
+======================================
+23. DOC ID:CACM-3012 score=0.32482263
+Text snippet is as below:
+The Use of an Interactive Information Storage
+and Retrieval System in Medical Research
+
+This paper presents the results of a study
+of the use of an interactive computerized storage 
+and retrieval syst
+======================================
+24. DOC ID:CACM-1681 score=0.31271085
+Text snippet is as below:
+Easy English,a Language for Information
+Retrieval Through a Remote Typewriter Console
+
+Easy English is a natural command language
+designed to simplify communication between man and 
+machine through re
+======================================
+25. DOC ID:CACM-2114 score=0.3120005
+Text snippet is as below:
+A Formal System for Information Retrieval from Files
+
+A generalized file structure is provided
+by which the concepts of keyword, index, record, file, directory,
+file structure, directory decoding, and
+======================================
+26. DOC ID:CACM-2175 score=0.30691025
+Text snippet is as below:
+Subexpression Ordering in the Execution of Arithmetic Expressions
+
+An arithmetic expression can often be broken
+down into its component subexpressions.  Depending 
+on the hardware environment in which
+======================================
+27. DOC ID:CACM-1830 score=0.30682305
+Text snippet is as below:
+Retrieval Times for a Packed Direct Access Inverted File
+
+CACM October, 1969
+
+Bayes, A. J.
+
+information retrieval, direct access memory, data base, inverted list
+
+3.70 4.41
+
+CA691016 JB February 15, 1
+======================================
+28. DOC ID:CACM-2865 score=0.29916105
+Text snippet is as below:
+Verifying Properties of Parallel Programs: An Axiomatic Approach
+
+An axiomatic method for proving a number
+of properties of parallel programs is presented.  
+Hoare has given a set of axioms for partia
+======================================
+29. DOC ID:CACM-1937 score=0.29438117
+Text snippet is as below:
+CODAS: A Data Display System
+
+CODAS, a Customer Oriented Data System, is
+a user-oriented data retrieval and display system. 
+ The command language of the system provides the user
+with an easy means fo
+======================================
+30. DOC ID:CACM-2070 score=0.28660002
+Text snippet is as below:
+A Formal System for Information Retrieval from Files
+
+CACM April, 1970
+
+Hsiao, D.
+Harary, F.
+
+CA700414 JB February 13, 1978  2:37 PM
+
+2070	5	2070
+2070	5	2070
+2070	5	2070
+======================================
+31. DOC ID:CACM-0275 score=0.28660002
+Text snippet is as below:
+Dynamic Storage Allocation for an Information Retrieval System
+
+CACM October, 1961
+
+Sams, B. H.
+
+CA611006 JB March 16, 1978  12:58 PM
+
+275	5	275
+275	5	275
+275	5	275
+======================================
+32. DOC ID:CACM-0651 score=0.28660002
+Text snippet is as below:
+A Survey of Languages and Systems for Information Retrieval
+
+CACM January, 1962
+
+Grems, M.
+
+CA620108 JB March 20, 1978  4:36 PM
+
+651	5	651
+651	5	651
+651	5	651
+======================================
+33. DOC ID:CACM-2990 score=0.28351814
+Text snippet is as below:
+Effective Information Retrieval Using Term Accuracy
+
+The performance of information retrieval systems
+can be evaluated in a number of different 
+ways.  Much of the published evaluation work is based
+o
+======================================
+34. DOC ID:CACM-1675 score=0.27305824
+Text snippet is as below:
+A Note on a Relevance Estimate and Its Improvement
+
+In this paper the effect of iterating the improvement
+procedure is examined.  It is shown that 
+applications of the improvement factor beyond the fi
+======================================
+35. DOC ID:CACM-2645 score=0.27148092
+Text snippet is as below:
+Two Languages for Estimating Program Efficiency
+
+Two languages enabling their users to estimate
+the efficiency of computer programs are presented. 
+ The program whose efficiency one wishes to estimate
+======================================
+36. DOC ID:CACM-2723 score=0.26939452
+Text snippet is as below:
+Multiprocessing Compactifying Garbage Collection
+
+Algorithms for a multiprocessing compactifying
+garbage collector are presented and discussed. 
+ The simple case of two processors, one performing LISP
+======================================
+37. DOC ID:CACM-2497 score=0.26721078
+Text snippet is as below:
+Synchronizing Processors with Memory-Content-Generated Interrupts
+
+Implementations of the "Lock-Unlock" method
+of synchronizing processors in a multiprocessor 
+system usually require uninterruptable, 
+======================================
+38. DOC ID:CACM-2307 score=0.2662603
+Text snippet is as below:
+Dynamic Document Processing
+
+The current role of computers in automatic
+document processing is briefly outlined, and some 
+reasons are given why the early promise of library automation
+and of the mech
+======================================
+39. DOC ID:CACM-1846 score=0.26329422
+Text snippet is as below:
+On Simulating Networks of Parallel Processes
+in Which Simultaneous Events May Occur
+
+Some of the problems of simulating discrete
+event systems, particularly computer systems, on 
+a conventional digita
+======================================
+40. DOC ID:CACM-2455 score=0.26295358
+Text snippet is as below:
+A Generalization of AVL Trees
+
+A generalization of AVL trees is proposed in
+which imbalances up to (triangle shape) is a small 
+integer.  An experiment is performed to compare these
+trees with standar
+======================================
+41. DOC ID:CACM-1725 score=0.2572509
+Text snippet is as below:
+A Simple Proof of Lewin's Ordered-Retrieval
+Theorem for Associative Memories
+
+An efficient method of ordered retrieval of binary
+words from an associative memory, as described
+by Lewin, is based on th
+======================================
+42. DOC ID:CACM-1032 score=0.25681505
+Text snippet is as below:
+Theoretical Considerations in Information Retrieval Systems
+
+Information storage and retrieval systems are composed
+of three major components: (a) identification 
+of information and tagging it for eff
+======================================
+43. DOC ID:CACM-2631 score=0.25681505
+Text snippet is as below:
+An Information-Theoretic Approach to
+Text Searching in Direct Access Systems
+
+Using direct access computer files of bibliographic
+information, an attempt is made to overcome 
+one of the problems often
+======================================
+44. DOC ID:CACM-1959 score=0.2559755
+Text snippet is as below:
+An Interrupt Based Organization for Management Information Systems
+
+A programming structure, language constructs, and a supervisory system 
+organization are proposed
+for the design and coding of large
+======================================
+45. DOC ID:CACM-1359 score=0.25542647
+Text snippet is as below:
+Data Filtering Applied to Information Storage and Retrieval Applications
+
+Manipulation of data strings is the most complex
+processing function in information storage 
+and retrieval applications.  Data
+======================================
+46. DOC ID:CACM-2947 score=0.2553496
+Text snippet is as below:
+SITAR: An Interactive Text Processing System for Small Computers
+
+SITAR, a low-cost in teractive text handling
+and text analysis system for nontechnical users, 
+is in many ways comparable to in teract
+======================================
+47. DOC ID:CACM-1236 score=0.2507608
+Text snippet is as below:
+The SMART Automatic Document Retrieval System-An Illustration
+
+A fully automatic document retrieval system
+operating on the IBM 7094 is described.  The system 
+is characterized by the fact that severa
+======================================
+48. DOC ID:CACM-2711 score=0.2507608
+Text snippet is as below:
+A Vector Space Model for Automatic Indexing
+
+In a document retrieval, or other pattern matching
+environment where stored entities (documents) 
+are compared with each other or with incoming patterns
+(s
+======================================
+49. DOC ID:CACM-1747 score=0.24959369
+Text snippet is as below:
+Three Criteria for Designing Computing Systems to Facilitate Debugging
+
+The designer of a computing system should adopt
+explicit criteria for accepting or rejecting 
+proposed system features.  Three p
+======================================
+50. DOC ID:CACM-1613 score=0.24941622
+Text snippet is as below:
+One-Pass Compilation of Arithmetic Expressions for a Parallel Processor
+
+Under the assumption that a processor may have
+a multiplicity of arithmetic units, a compiler 
+for such a processor should prod
+======================================
+51. DOC ID:CACM-0292 score=0.24565716
+Text snippet is as below:
+An Information Retrieval Language for Legal Studies
+
+CACM September, 1961
+
+Kehl, W. B.
+Horty, J. F.
+Bacon, C. R. T.
+Mitchell, D. S.
+
+CA610902 JB March 16, 1978  9:51 PM
+
+292	5	292
+292	5	292
+292	5	292
+======================================
+52. DOC ID:CACM-0239 score=0.24565716
+Text snippet is as below:
+Inefficiency of the Use of Boolean Functions
+for Information Retrieval Systems
+
+CACM December, 1961
+
+Verhoeff, J.
+Goffman, W.
+Belzer, J.
+
+CA611211 JB March 15, 1978  10:10 PM
+
+239	5	239
+239	5	239
+239	
+======================================
+53. DOC ID:CACM-1831 score=0.24565716
+Text snippet is as below:
+A Comment on Optimal Tree Structures
+
+CACM October, 1969
+
+Stanfel, L. E.
+
+information retrieval, file searching, tree structures, double chaining
+
+3.70 3.73 3.74
+
+CA691015 JB February 15, 1978  1:31 P
+======================================
+54. DOC ID:CACM-2532 score=0.24565716
+Text snippet is as below:
+On Harrison's Substring Testing Technique
+
+CACM March, 1973
+
+Bookstein, A.
+
+string, substring, hashing, information storage and retrieval
+
+3.74 5.30 5.5
+
+CA730307 JB January 24, 1978  10:30 AM
+
+2532	4
+======================================
+55. DOC ID:CACM-2561 score=0.24531764
+Text snippet is as below:
+A Heuristic Approach to Inductive Inference in Fact Retrieval Systems
+
+Heuristic procedures are presented which have
+been developed to perform inferences by generalizing 
+from available information.  
+======================================
+56. DOC ID:CACM-2493 score=0.23892593
+Text snippet is as below:
+Optimum Data Base Reorganization Points
+
+In certain data base organization schemes the
+cost per access may increase due to structural 
+inefficiencies caused by updates.  By reorganizing
+the data base 
+======================================
+57. DOC ID:CACM-2032 score=0.23892593
+Text snippet is as below:
+File Structures Using Hashing Functions
+
+A general method of file structuring is proposed which uses a hashing
+function to define tree structure.  Two types of such trees are examined, 
+and their rela
+======================================
+58. DOC ID:CACM-1960 score=0.23832633
+Text snippet is as below:
+Process Management and Resource Sharing in the Multiaccess System ESOPE
+
+The main design principles of the multiaccess system ESOPE are described.
+Emphasis is placed on basic ideas underlying the desi
+======================================
+59. DOC ID:CACM-2575 score=0.23623443
+Text snippet is as below:
+The Best-Match Problem in Document Retrieval
+
+CACM November, 1974
+
+Van Rijsbergen, C. J.
+
+document retrieval, best match, clustering, file
+searching, matching, dissimilarity, hierarchy, 
+classificatio
+======================================
+60. DOC ID:CACM-1976 score=0.23291053
+Text snippet is as below:
+Multi-attribute Retrieval with Combined Indexes
+
+In this paper a file organization scheme designed to
+replace the use of the popular secondary index filing scheme
+(or inverted files on secondary key f
+======================================
+61. DOC ID:CACM-2714 score=0.2318515
+Text snippet is as below:
+Merging with Parallel Processors
+
+Consider two linearly ordered sets A, B, |A|=m,
+|B|=n, m<=n, and p, p<=m, parallel processors 
+working synchronously.  The paper presents an algorithm
+for merging A a
+======================================
+62. DOC ID:CACM-2846 score=0.23022163
+Text snippet is as below:
+Compressed Tries
+
+This paper presents a new data structure,
+called a compressed trie or C-trie, to be used in 
+information retrieval systems.  It has the same underlying
+m-ary tree structure as a trie
+======================================
+63. DOC ID:CACM-1788 score=0.22707391
+Text snippet is as below:
+Toward a General Processor for Programming Languages
+
+Many efforts have been made to develop a better
+way of implementing a higher level programming 
+language than by the construction of a whole new c
+======================================
+64. DOC ID:CACM-3134 score=0.22261603
+Text snippet is as below:
+The Use of Normal Multiplication Tables
+for Information Storage and Retrieval
+
+This paper describes a method for the organization and retrieval of attribute 
+based information systems, using the norma
+======================================
+65. DOC ID:CACM-2896 score=0.22205634
+Text snippet is as below:
+An Exercise in Proving Parallel Programs Correct
+
+A parallel program, Dijkstra's on-the-fly garbage
+collector, is proved correct using a proof 
+method developed by Owicki.  The fine degree of in terle
+======================================
+66. DOC ID:CACM-2160 score=0.22039233
+Text snippet is as below:
+Canonical Structure in Attribute Based File Organization
+
+A new file structure for attribute based retrieval
+is proposed in this paper.  It allows queries 
+involving arbitrary Boolean functions of the
+======================================
+67. DOC ID:CACM-1367 score=0.21977878
+Text snippet is as below:
+Character Structure and Character Parity Sense
+for Parallel-by-Bit Data Communication in ASCII* 
+(Proposed American Standard)
+
+CACM September, 1966
+
+CA660912 JB March 2, 1978  4:26 PM
+
+1367	4	1367
+277
+======================================
+68. DOC ID:CACM-2795 score=0.21719776
+Text snippet is as below:
+Sentence Paraphrasing from a Conceptual Base
+
+A model of natural language based on an underlying
+language-free representation of meaning 
+is described.  A program based on this model is able
+to produc
+======================================
+69. DOC ID:CACM-1711 score=0.21719776
+Text snippet is as below:
+When Your Computer Needs a Lawyer
+
+Possible liability for negligence, for other
+torts (such as slander of credit) and for liability 
+under theories of express or implied warranty (guarantees)
+are disc
+======================================
+70. DOC ID:CACM-1262 score=0.21610773
+Text snippet is as below:
+Procedure-Oriented Language Statements to Facilitate Parallel Processing
+
+Two statements are suggested which allow a programmer
+writing in a procedure-oriented language 
+to indicate sections of progra
+======================================
+71. DOC ID:CACM-0440 score=0.20856614
+Text snippet is as below:
+Record Linkage
+
+Special difficulties are encountered in devising
+reliable systems for searching and updating 
+any large files of documents that must be identified
+primarily on the basis of names and o
+======================================
+72. DOC ID:CACM-1652 score=0.20711954
+Text snippet is as below:
+A Code for Non-numeric Information Processing
+Applications in Online Systems
+
+A code has been specifically designed to simplify
+the internal information processing operations 
+within an online compute
+======================================
+73. DOC ID:CACM-1514 score=0.20635842
+Text snippet is as below:
+On the Expected Gain From Adjust ing Matched Term Retrieval Systems
+
+A file adjustment procedure based on maximizing
+the Bayes expected gain proposed for matched 
+term retrieval systems.  The expected
+======================================
+74. DOC ID:CACM-1828 score=0.20607825
+Text snippet is as below:
+Synchronization in a Parallel-Accessed Data Base
+
+The following problem is considered:  Given
+a data base which can be manipulated simultaneously 
+by more than one process, what are the rules for sync
+======================================
+75. DOC ID:CACM-2141 score=0.20479368
+Text snippet is as below:
+Algorithmic Selection of the Best
+Method for Compressing Map Data Strings
+
+The best of a dozen different methods for
+compressing map data is illustrated.  The choices 
+are generated by encoding data s
+======================================
+76. DOC ID:CACM-2543 score=0.20479368
+Text snippet is as below:
+Reducing the Retrieval Time of Scatter Storage Techniques
+
+A new method for entering and retrieving information
+in a hash table is described.  The method 
+is intended to be efficient if most entries a
+======================================
+77. DOC ID:CACM-2552 score=0.2047143
+Text snippet is as below:
+A Note on When To Chain Overflow Items Within a Direct-Access Table
+
+CACM January, 1973
+
+Bays, C.
+
+hash code, open hash, chaining, information retrieval, collision
+
+3.7 4.9
+
+CA730109 JB January 24, 19
+======================================
+78. DOC ID:CACM-2781 score=0.2047143
+Text snippet is as below:
+The Algorithm Sequential Access Method:
+An Alternative to Index Sequential
+
+CACM March, 1975
+
+Whitt, J. D.
+Sullenberger, A. G.
+
+keys, direct access method, sequential access
+method, randomizing inform
+======================================
+79. DOC ID:CACM-2412 score=0.2047143
+Text snippet is as below:
+Comment on Brent's Scatter Storage Algorithm
+
+CACM November, 1973
+
+Feldman, J. A.
+Low, J. R.
+
+Hashing, information storage and retrieval,
+scatter storage, searching, symbol table
+
+3.7 3.73 3.74 4.1 4.
+======================================
+80. DOC ID:CACM-1456 score=0.20312296
+Text snippet is as below:
+Storage and Retrieval of Aspects of Meaning in Directed Graph Structures
+
+An experimental system that uses LISP to make
+a conceptual dictionary is described.  The dictionary 
+associates with each Engl
+======================================
+81. DOC ID:CACM-2623 score=0.20312296
+Text snippet is as below:
+A New Technique for Compression and Storage of Data
+
+The widespread tendency toward storage of
+large programs and blocks off text has produced a 
+need for efficient methods of compressing and storing
+
+======================================
+82. DOC ID:CACM-2484 score=0.202765
+Text snippet is as below:
+A Note on Information Organization and Storage
+
+Since the logical structure of a data base
+can be represented by a tree or graph, it is quite 
+natural for us to view the process of designing a data
+ba
+======================================
+83. DOC ID:CACM-3135 score=0.20197439
+Text snippet is as below:
+Detection of Three-Dimensional Patterns of Atoms in Chemical Structures
+
+An algorithm for detecting occurrences of a three-dimensional pattern of
+objects within a larger structure is presented.  The s
+======================================
+84. DOC ID:CACM-2451 score=0.20110689
+Text snippet is as below:
+Design of Tree Structures for Efficient Querying
+
+A standard information retrieval operation is
+to determine which records in a data collection 
+satisfy a given query expressed in terms of data values
+======================================
+85. DOC ID:CACM-2722 score=0.19743586
+Text snippet is as below:
+Multidimensional Binary Search Trees Used for Associative Searching
+
+This paper develops the multidimensional binary
+search tree (or k-d tree, where k is the dimensionality 
+of the search space) as a 
+======================================
+86. DOC ID:CACM-2377 score=0.19457446
+Text snippet is as below:
+A Hardware Architecture for Implementing Protection Rings
+
+Protection of computations and information
+is an important aspect of a computer utility.  In 
+a system which uses segmentation as a memory ad
+======================================
+87. DOC ID:CACM-1108 score=0.19457446
+Text snippet is as below:
+Digital Data Processor for Tracking the Partially Illuminated Moon*
+
+A study of lunar tracking techniques and fabrication
+of a breadboard to assess the feasibility 
+of the best technique selected was 
+======================================
+88. DOC ID:CACM-0406 score=0.19209304
+Text snippet is as below:
+The Use of Threaded Lists in Constructing a Combined
+ALGOL and Machine-Like Assembly Processor
+
+CACM January, 1961
+
+Evans Jr., A.
+Perlis, A. J.
+Van Zoeren, H.
+
+CA610108 JB March 17, 1978  1:20 AM
+
+105
+======================================
+89. DOC ID:CACM-1527 score=0.1893306
+Text snippet is as below:
+A Grammar Base Question Answering Procedure
+
+The subject of this paper is a procedure for
+the automatic retrieval of certain segments of 
+stored information, either explicitly or implicitly represente
+======================================
+90. DOC ID:CACM-2991 score=0.18778704
+Text snippet is as below:
+Improving the Access Time for Random Access Files
+
+Clustering in the key set is decreased by
+smoothing the key-to-address transformation, and 
+by adding shadow buckets to an open chaining file.  The
+k
+======================================
+91. DOC ID:CACM-1680 score=0.18740638
+Text snippet is as below:
+A General-Purpose Display Processing and Tutorial System
+
+ADEPT (A display-Expedited Processing and Tutorial)
+system is described.  This system was designed 
+to improve man-computer communications by 
+======================================
+92. DOC ID:CACM-1194 score=0.18609634
+Text snippet is as below:
+Establishment of the ACM Repository and Principles
+of the IR System Applied to its Operation
+
+The history of the establishment of the ACM Repository
+at the Moore School, University of Pennsylvania, 
+i
+======================================
+93. DOC ID:CACM-3075 score=0.18597947
+Text snippet is as below:
+Fast Parallel Sorting Algorithms
+
+A parallel bucket-sort algorithm is presented
+that requires time O(log n) and the use of n 
+processors.  The algorithm makes use of a technique that
+requires more spa
+======================================
+94. DOC ID:CACM-1742 score=0.18540506
+Text snippet is as below:
+On the Design of Display Processors
+
+The flexibility and power needed in the data
+channel for a computer display are considered. 
+ To work efficiently, such a channel must have a sufficient number
+of 
+======================================
+95. DOC ID:CACM-1530 score=0.18354164
+Text snippet is as below:
+The ML/I Macro Processor
+
+A general purpose macro processor called ML/I
+is described.  ML/I has been implemented on the 
+PDP-7 and I. Atlas 2 computers and is intended as a
+tool to allow users to exte
+======================================
+96. DOC ID:CACM-2388 score=0.18319824
+Text snippet is as below:
+Optimizing Binary Trees Grown With a Sorting Algorithm
+
+Items can be retrieved from binary trees grown
+with a form of the Algorithm Quicksort in an 
+average time proportional to log n, where n is the 
+======================================
+97. DOC ID:CACM-2746 score=0.18319824
+Text snippet is as below:
+Efficient String Matching: An Aid to Bibliographic Search
+
+This paper describes a simple, efficient algorithm
+to locate all occurrences of any of a finite 
+number of keywords in a string of text.  The
+======================================
+98. DOC ID:CACM-2650 score=0.18319824
+Text snippet is as below:
+Order-n Correction for Regular Languages
+
+A method is presented for calculating a string
+B, belonging to a given regular language L, 
+which is "nearest" (in number of edit operations) to a
+given input
+======================================
+99. DOC ID:CACM-2895 score=0.18130824
+Text snippet is as below:
+A Language for Formal Problem Specification
+
+A language for specifying the in tended behavior
+of communicating parallel processes is described. 
+ The specifications are constrain ts on the order in wh
+======================================
+100. DOC ID:CACM-3156 score=0.18030451
+Text snippet is as below:
+Computing Connected Components on Parallel Computers
+
+We present a parallel algorithm which uses n2 processors to find the connected
+components of an undirected graph with n vertices in time O(log2n).
+======================================
+======================================
